@@ -1,0 +1,3 @@
+run,method,old_points,new_points,status
+S1_EXTREME_TOL1_ALNS_NO_LEARNING_run15,Method 4,3,3,done
+S1_EXTREME_TOL1_OURS_run15,Method 5,3,3,done

@@ -1,0 +1,31 @@
+instance,model,cores,compared_with,p_value,p_holm
+L30_S1,improved,1,Method 3: CP-SAT alone (exact solver),1.0,1.0
+L30_S1,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1.0,1.0
+L30_S2,improved,1,Method 3: CP-SAT alone (exact solver),1.0,1.0
+L30_S2,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1.0,1.0
+L30_S3,improved,1,Method 3: CP-SAT alone (exact solver),0.00390625,0.0078125
+L30_S3,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.09896015401940578,0.09896015401940578
+L60_S1,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L60_S1,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.8143139749268714,0.8143139749268714
+L60_S2,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L60_S2,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.7304940960215974,0.7304940960215974
+L60_S3,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L60_S3,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.6186551043545254,0.6186551043545254
+L100_S1,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L100_S1,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.5205228832757727,0.5205228832757727
+L100_S2,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.003412498737839193
+L100_S2,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.0017062493689195964,0.003412498737839193
+L100_S3,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L100_S3,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.27303633975118835,0.27303633975118835
+L150_S1,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L150_S1,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.0036105143123296027,0.00390625
+L150_S2,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L150_S2,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.025748080821108063,0.025748080821108063
+L150_S3,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L150_S3,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.27303633975118835,0.27303633975118835
+L200_S1,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L200_S1,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.3447042220069576,0.3447042220069576
+L200_S2,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.001953125
+L200_S2,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.0005828399431792743,0.0011656798863585486
+L200_S3,improved,1,Method 3: CP-SAT alone (exact solver),0.001953125,0.00390625
+L200_S3,improved,1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.5205228832757727,0.5205228832757727

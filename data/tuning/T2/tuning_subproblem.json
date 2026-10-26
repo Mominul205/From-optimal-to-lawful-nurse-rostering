@@ -1,0 +1,9 @@
+{
+  "name": "T2",
+  "pattern": "S3",
+  "seed": 4202,
+  "tolerance": 1,
+  "min_F2": 29,
+  "max_F3": 0,
+  "initial_F1": 41.89935890450764
+}

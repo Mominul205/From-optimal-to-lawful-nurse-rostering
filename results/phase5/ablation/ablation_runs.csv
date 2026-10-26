@@ -1,0 +1,241 @@
+instance,variant,run,status,final_F1,iterations,verified
+A1,full (tuned),1,done,71.89239643225712,98,True
+A1,full (tuned),2,done,71.66683252248268,85,True
+A1,full (tuned),3,done,71.87986510393631,91,True
+A1,full (tuned),4,done,71.90492776057792,105,True
+A1,full (tuned),5,done,71.90492776057792,90,True
+A1,full (tuned),6,done,71.7733488132095,98,True
+A1,full (tuned),7,done,71.87986510393631,82,True
+A1,full (tuned),8,done,71.7733488132095,86,True
+A1,full (tuned),9,done,71.7858801415303,94,True
+A1,full (tuned),10,done,71.89239643225712,87,True
+A1,no learning (roulette),1,done,71.90492776057792,105,True
+A1,no learning (roulette),2,done,71.90492776057792,98,True
+A1,no learning (roulette),3,done,71.90492776057792,88,True
+A1,no learning (roulette),4,done,71.7858801415303,86,True
+A1,no learning (roulette),5,done,71.90492776057792,102,True
+A1,no learning (roulette),6,done,71.90492776057792,101,True
+A1,no learning (roulette),7,done,71.7858801415303,91,True
+A1,no learning (roulette),8,done,71.7858801415303,89,True
+A1,no learning (roulette),9,done,71.90492776057792,94,True
+A1,no learning (roulette),10,done,71.7578689370485,88,True
+A1,no adaptation (random),1,done,71.87691655609612,96,True
+A1,no adaptation (random),2,done,71.7858801415303,99,True
+A1,no adaptation (random),3,done,71.90492776057792,91,True
+A1,no adaptation (random),4,done,71.7858801415303,100,True
+A1,no adaptation (random),5,done,71.89239643225712,105,True
+A1,no adaptation (random),6,done,71.90492776057792,109,True
+A1,no adaptation (random),7,done,71.90492776057792,112,True
+A1,no adaptation (random),8,done,71.8703376087277,96,True
+A1,no adaptation (random),9,done,71.90492776057792,107,True
+A1,no adaptation (random),10,done,71.90492776057792,97,True
+A1,without day_block,1,done,71.90492776057792,95,True
+A1,without day_block,2,done,71.87986510393631,107,True
+A1,without day_block,3,done,71.89239643225712,87,True
+A1,without day_block,4,done,71.66683252248268,81,True
+A1,without day_block,5,done,71.7858801415303,77,True
+A1,without day_block,6,done,71.7578689370485,80,True
+A1,without day_block,7,done,71.87986510393631,84,True
+A1,without day_block,8,done,71.89239643225712,90,True
+A1,without day_block,9,done,71.88944788441692,73,True
+A1,without day_block,10,done,71.90492776057792,87,True
+A1,without fairness,1,done,71.76081748488869,86,True
+A1,without fairness,2,done,71.90492776057792,102,True
+A1,without fairness,3,done,71.7733488132095,98,True
+A1,without fairness,4,done,71.90492776057792,95,True
+A1,without fairness,5,done,71.77992776057792,89,True
+A1,without fairness,6,done,71.76676986584107,77,True
+A1,without fairness,7,done,71.90492776057792,89,True
+A1,without fairness,8,done,71.90492776057792,84,True
+A1,without fairness,9,done,71.7733488132095,78,True
+A1,without fairness,10,done,71.7858801415303,83,True
+A1,without staffing,1,done,71.90492776057792,78,True
+A1,without staffing,2,done,71.7733488132095,84,True
+A1,without staffing,3,done,71.89239643225712,92,True
+A1,without staffing,4,done,71.90492776057792,88,True
+A1,without staffing,5,done,71.77992776057792,84,True
+A1,without staffing,6,done,71.7733488132095,83,True
+A1,without staffing,7,done,71.89239643225712,84,True
+A1,without staffing,8,done,71.7733488132095,83,True
+A1,without staffing,9,done,71.90492776057792,111,True
+A1,without staffing,10,done,71.90492776057792,95,True
+A1,without random_staff,1,done,71.7858801415303,100,True
+A1,without random_staff,2,done,71.62628998968009,88,True
+A1,without random_staff,3,done,71.63224237063247,88,True
+A1,without random_staff,4,done,71.74867776057792,98,True
+A1,without random_staff,5,done,71.7858801415303,95,True
+A1,without random_staff,6,done,71.7733488132095,84,True
+A1,without random_staff,7,done,71.86772537962554,106,True
+A1,without random_staff,8,done,71.7578689370485,100,True
+A1,without random_staff,9,done,71.7453376087277,87,True
+A1,without random_staff,10,done,71.90492776057792,106,True
+A1,without workload,1,done,71.8983488132095,109,True
+A1,without workload,2,done,71.87691655609612,85,True
+A1,without workload,3,done,71.88944788441692,95,True
+A1,without workload,4,done,71.90492776057792,108,True
+A1,without workload,5,done,71.90492776057792,106,True
+A1,without workload,6,done,71.90492776057792,97,True
+A1,without workload,7,done,71.90492776057792,103,True
+A1,without workload,8,done,71.62923853752027,83,True
+A1,without workload,9,done,71.90492776057792,110,True
+A1,without workload,10,done,71.7733488132095,85,True
+A2,full (tuned),1,done,72.48452461075964,83,True
+A2,full (tuned),2,done,72.4868834490318,72,True
+A2,full (tuned),3,done,72.48638219589895,74,True
+A2,full (tuned),4,done,72.49164535379369,91,True
+A2,full (tuned),5,done,72.28688344903179,77,True
+A2,full (tuned),6,done,72.45495067592255,65,True
+A2,full (tuned),7,done,72.3668775519361,75,True
+A2,full (tuned),8,done,72.38928651552155,62,True
+A2,full (tuned),9,done,72.23630111083335,67,True
+A2,full (tuned),10,done,72.38212154426988,69,True
+A2,no learning (roulette),1,done,72.36161439404137,70,True
+A2,no learning (roulette),2,done,72.47976270599773,70,True
+A2,no learning (roulette),3,done,72.36397323231353,69,True
+A2,no learning (roulette),4,done,72.39164535379369,69,True
+A2,no learning (roulette),5,done,72.38162029113705,73,True
+A2,no learning (roulette),6,done,72.05871007441878,69,True
+A2,no learning (roulette),7,done,72.49214660692653,74,True
+A2,no learning (roulette),8,done,72.50693357434507,79,True
+A2,no learning (roulette),9,done,72.4792614528649,72,True
+A2,no learning (roulette),10,done,72.29400419206584,75,True
+A2,no adaptation (random),1,done,72.3792614528649,77,True
+A2,no adaptation (random),2,done,72.46973764334109,76,True
+A2,no adaptation (random),3,done,72.17399829497016,72,True
+A2,no adaptation (random),4,done,72.38688344903179,74,True
+A2,no adaptation (random),5,done,72.27876019973206,80,True
+A2,no adaptation (random),6,done,72.48978776865437,79,True
+A2,no adaptation (random),7,done,72.24682742662283,73,True
+A2,no adaptation (random),8,done,72.37635713324231,75,True
+A2,no adaptation (random),9,done,72.30167041645034,77,True
+A2,no adaptation (random),10,done,72.40402925472249,82,True
+A2,without day_block,1,done,72.36161439404137,73,True
+A2,without day_block,2,done,72.04582492035716,85,True
+A2,without day_block,3,done,72.04292060073458,85,True
+A2,without day_block,4,done,72.23204045920427,64,True
+A2,without day_block,5,done,71.86923639020826,58,True
+A2,without day_block,6,done,72.23439929747643,63,True
+A2,without day_block,7,done,72.13428520149479,66,True
+A2,without day_block,8,done,71.84292060073457,70,True
+A2,without day_block,9,done,71.71765154574416,74,True
+A2,without day_block,10,done,72.13378394836195,67,True
+A2,without fairness,1,done,72.25685248927947,73,True
+A2,without fairness,2,done,71.94632617349,66,True
+A2,without fairness,3,done,72.38162029113705,72,True
+A2,without fairness,4,done,72.49164535379369,84,True
+A2,without fairness,5,done,72.37449954810299,61,True
+A2,without fairness,6,done,72.49214660692653,69,True
+A2,without fairness,7,done,72.36873513707542,72,True
+A2,without fairness,8,done,72.3792614528649,69,True
+A2,without fairness,9,done,72.48452461075964,76,True
+A2,without fairness,10,done,72.26923639020826,68,True
+A2,without staffing,1,done,72.48212154426989,77,True
+A2,without staffing,2,done,72.46397323231352,67,True
+A2,without staffing,3,done,72.05635123614664,68,True
+A2,without staffing,4,done,71.89148318366249,53,True
+A2,without staffing,5,done,72.15635123614663,55,True
+A2,without staffing,6,done,72.35499490414014,68,True
+A2,without staffing,7,done,72.32867911466646,75,True
+A2,without staffing,8,done,72.29214660692652,61,True
+A2,without staffing,9,done,72.40995198994929,71,True
+A2,without staffing,10,done,72.47976270599773,69,True
+A2,without random_staff,1,done,72.49214660692653,87,True
+A2,without random_staff,2,done,72.4868834490318,66,True
+A2,without random_staff,3,done,72.37449954810299,88,True
+A2,without random_staff,4,done,72.49164535379369,79,True
+A2,without random_staff,5,done,72.14632617349,62,True
+A2,without random_staff,6,done,72.48928651552154,75,True
+A2,without random_staff,7,done,72.49164535379369,79,True
+A2,without random_staff,8,done,71.67175355267965,59,True
+A2,without random_staff,9,done,71.96111314090854,83,True
+A2,without random_staff,10,done,72.24868501176215,58,True
+A2,without workload,1,done,72.04682742662283,75,True
+A2,without workload,2,done,72.474499548103,65,True
+A2,without workload,3,done,72.17926145286489,80,True
+A2,without workload,4,done,72.49164535379369,86,True
+A2,without workload,5,done,72.14380901101859,68,True
+A2,without workload,6,done,72.3840233576268,78,True
+A2,without workload,7,done,72.29114410066086,80,True
+A2,without workload,8,done,72.50167041645034,84,True
+A2,without workload,9,done,72.28162029113705,75,True
+A2,without workload,10,done,72.39690851168842,75,True
+S1_TOL1,full (tuned),1,done,76.53720462543993,350,True
+S1_TOL1,full (tuned),2,done,76.53720462543993,274,True
+S1_TOL1,full (tuned),3,done,76.53720462543993,303,True
+S1_TOL1,full (tuned),4,done,76.53720462543993,263,True
+S1_TOL1,full (tuned),5,done,76.53720462543993,341,True
+S1_TOL1,full (tuned),6,done,76.53720462543993,368,True
+S1_TOL1,full (tuned),7,done,76.53720462543993,334,True
+S1_TOL1,full (tuned),8,done,76.53720462543993,265,True
+S1_TOL1,full (tuned),9,done,76.53720462543993,289,True
+S1_TOL1,full (tuned),10,done,76.53720462543993,365,True
+S1_TOL1,no learning (roulette),1,done,76.53720462543993,311,True
+S1_TOL1,no learning (roulette),2,done,76.53720462543993,313,True
+S1_TOL1,no learning (roulette),3,done,76.53720462543993,255,True
+S1_TOL1,no learning (roulette),4,done,76.53720462543993,305,True
+S1_TOL1,no learning (roulette),5,done,76.53720462543993,298,True
+S1_TOL1,no learning (roulette),6,done,76.53720462543993,274,True
+S1_TOL1,no learning (roulette),7,done,76.5213316095669,287,True
+S1_TOL1,no learning (roulette),8,done,76.53720462543993,321,True
+S1_TOL1,no learning (roulette),9,done,76.53720462543993,277,True
+S1_TOL1,no learning (roulette),10,done,76.53720462543993,312,True
+S1_TOL1,no adaptation (random),1,done,76.53720462543993,288,True
+S1_TOL1,no adaptation (random),2,done,76.53720462543993,299,True
+S1_TOL1,no adaptation (random),3,done,76.53720462543993,315,True
+S1_TOL1,no adaptation (random),4,done,76.53720462543993,310,True
+S1_TOL1,no adaptation (random),5,done,76.53720462543993,312,True
+S1_TOL1,no adaptation (random),6,done,76.53720462543993,302,True
+S1_TOL1,no adaptation (random),7,done,76.53720462543993,289,True
+S1_TOL1,no adaptation (random),8,done,76.53720462543993,322,True
+S1_TOL1,no adaptation (random),9,done,76.53720462543993,278,True
+S1_TOL1,no adaptation (random),10,done,76.53720462543993,292,True
+S1_TOL1,without day_block,1,done,76.53720462543993,214,True
+S1_TOL1,without day_block,2,done,76.5213316095669,292,True
+S1_TOL1,without day_block,3,done,76.53720462543993,259,True
+S1_TOL1,without day_block,4,done,76.53720462543993,281,True
+S1_TOL1,without day_block,5,done,76.53720462543993,292,True
+S1_TOL1,without day_block,6,done,76.53720462543993,285,True
+S1_TOL1,without day_block,7,done,76.53720462543993,255,True
+S1_TOL1,without day_block,8,done,76.53720462543993,312,True
+S1_TOL1,without day_block,9,done,76.53720462543993,276,True
+S1_TOL1,without day_block,10,done,76.53720462543993,318,True
+S1_TOL1,without fairness,1,done,76.53720462543993,205,True
+S1_TOL1,without fairness,2,done,76.53720462543993,186,True
+S1_TOL1,without fairness,3,done,76.53720462543993,165,True
+S1_TOL1,without fairness,4,done,76.53720462543993,239,True
+S1_TOL1,without fairness,5,done,76.53720462543993,253,True
+S1_TOL1,without fairness,6,done,76.53720462543993,324,True
+S1_TOL1,without fairness,7,done,76.53720462543993,238,True
+S1_TOL1,without fairness,8,done,76.53720462543993,263,True
+S1_TOL1,without fairness,9,done,76.53720462543993,284,True
+S1_TOL1,without fairness,10,done,76.53720462543993,266,True
+S1_TOL1,without staffing,1,done,76.53720462543993,277,True
+S1_TOL1,without staffing,2,done,76.53720462543993,275,True
+S1_TOL1,without staffing,3,done,76.53720462543993,247,True
+S1_TOL1,without staffing,4,done,76.53720462543993,271,True
+S1_TOL1,without staffing,5,done,76.53720462543993,277,True
+S1_TOL1,without staffing,6,done,76.53720462543993,310,True
+S1_TOL1,without staffing,7,done,76.5188896071249,275,True
+S1_TOL1,without staffing,8,done,76.53720462543993,277,True
+S1_TOL1,without staffing,9,done,76.53720462543993,269,True
+S1_TOL1,without staffing,10,done,76.53720462543993,275,True
+S1_TOL1,without random_staff,1,done,76.53720462543993,255,True
+S1_TOL1,without random_staff,2,done,76.53720462543993,311,True
+S1_TOL1,without random_staff,3,done,76.29910938734469,307,True
+S1_TOL1,without random_staff,4,done,76.29910938734469,267,True
+S1_TOL1,without random_staff,5,done,76.53720462543993,362,True
+S1_TOL1,without random_staff,6,done,76.53720462543993,330,True
+S1_TOL1,without random_staff,7,done,76.5188896071249,384,True
+S1_TOL1,without random_staff,8,done,76.53720462543993,300,True
+S1_TOL1,without random_staff,9,done,76.53720462543993,348,True
+S1_TOL1,without random_staff,10,done,76.53720462543993,242,True
+S1_TOL1,without workload,1,done,76.53720462543993,306,True
+S1_TOL1,without workload,2,done,76.53720462543993,314,True
+S1_TOL1,without workload,3,done,76.53720462543993,362,True
+S1_TOL1,without workload,4,done,76.53720462543993,316,True
+S1_TOL1,without workload,5,done,76.53720462543993,353,True
+S1_TOL1,without workload,6,done,76.53720462543993,328,True
+S1_TOL1,without workload,7,done,76.53720462543993,282,True
+S1_TOL1,without workload,8,done,76.53720462543993,377,True
+S1_TOL1,without workload,9,done,76.53720462543993,363,True
+S1_TOL1,without workload,10,done,76.53720462543993,303,True

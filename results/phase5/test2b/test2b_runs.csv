@@ -1,0 +1,727 @@
+configuration,method,run,status,hypervolume,feasible_rosters,feasible,published_dominated,published_count,best_F1,best_F2,grid_points,solved_points,not_found_points,time_s,igd_to_best_known_front
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),1,done,0.0,0,False,0,6,,,,,,124.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),2,done,0.0,0,False,0,6,,,,,,125.4,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),3,done,0.0,0,False,0,6,,,,,,126.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),4,done,0.0,0,False,0,6,,,,,,125.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),5,done,0.0,0,False,0,6,,,,,,127.1,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),6,done,0.0,0,False,0,6,,,,,,125.5,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),7,done,0.0,0,False,0,6,,,,,,125.3,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),8,done,0.0,0,False,0,6,,,,,,125.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),9,done,0.0,0,False,0,6,,,,,,173.8,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),10,done,0.0,0,False,0,6,,,,,,173.8,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),11,done,0.0,0,False,0,6,,,,,,174.0,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),12,done,0.0,0,False,0,6,,,,,,179.1,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),13,done,0.0,0,False,0,6,,,,,,175.8,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),14,done,0.0,0,False,0,6,,,,,,178.1,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),15,done,0.0,0,False,0,6,,,,,,175.7,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),16,done,0.0,0,False,0,6,,,,,,180.0,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),17,done,0.0,0,False,0,6,,,,,,229.7,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),18,done,0.0,0,False,0,6,,,,,,229.9,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),19,done,0.0,0,False,0,6,,,,,,230.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),20,done,0.0,0,False,0,6,,,,,,226.3,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),21,done,0.0,0,False,0,6,,,,,,228.3,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),22,done,0.0,0,False,0,6,,,,,,227.5,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),23,done,0.0,0,False,0,6,,,,,,228.0,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),24,done,0.0,0,False,0,6,,,,,,228.9,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),25,done,0.0,0,False,0,6,,,,,,239.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),26,done,0.0,0,False,0,6,,,,,,237.0,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),27,done,0.0,0,False,0,6,,,,,,241.7,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),28,done,0.0,0,False,0,6,,,,,,236.7,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),29,done,0.0,0,False,0,6,,,,,,240.6,
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),30,done,0.0,0,False,0,6,,,,,,239.8,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1,done,0.0,0,False,0,6,,,,,,244.3,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),2,done,0.0,0,False,0,6,,,,,,245.5,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),3,done,0.0,0,False,0,6,,,,,,211.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),4,done,0.0,0,False,0,6,,,,,,211.4,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),5,done,0.0,0,False,0,6,,,,,,211.0,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6,done,0.0,0,False,0,6,,,,,,211.5,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7,done,0.0,0,False,0,6,,,,,,210.4,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),8,done,0.0,0,False,0,6,,,,,,210.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9,done,0.0,0,False,0,6,,,,,,210.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),10,done,0.0,0,False,0,6,,,,,,209.3,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),11,done,0.0,0,False,0,6,,,,,,193.3,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),12,done,0.0,0,False,0,6,,,,,,192.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),13,done,0.0,0,False,0,6,,,,,,192.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),14,done,0.0,0,False,0,6,,,,,,192.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),15,done,0.0,0,False,0,6,,,,,,192.7,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),16,done,0.0,0,False,0,6,,,,,,192.7,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),17,done,0.0,0,False,0,6,,,,,,193.6,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),18,done,0.0,0,False,0,6,,,,,,193.3,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),19,done,0.0,0,False,0,6,,,,,,190.0,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),20,done,0.0,0,False,0,6,,,,,,190.5,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),21,done,0.0,0,False,0,6,,,,,,190.7,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),22,done,0.0,0,False,0,6,,,,,,190.5,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),23,done,0.0,0,False,0,6,,,,,,189.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),24,done,0.0,0,False,0,6,,,,,,191.1,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),25,done,0.0,0,False,0,6,,,,,,191.2,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),26,done,0.0,0,False,0,6,,,,,,190.7,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),27,done,0.0,0,False,0,6,,,,,,181.3,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),28,done,0.0,0,False,0,6,,,,,,181.3,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),29,done,0.0,0,False,0,6,,,,,,180.9,
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),30,done,0.0,0,False,0,6,,,,,,181.1,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),1,done,0.0,0,False,0,6,,,,,,219.0,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),2,done,0.0,1,True,0,6,54.05153343388637,43.75,,,,219.0,20.345396115778264
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),3,done,0.0,0,False,0,6,,,,,,220.4,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),4,done,0.0,0,False,0,6,,,,,,219.6,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),5,done,0.0,0,False,0,6,,,,,,219.0,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),6,done,0.0,0,False,0,6,,,,,,220.8,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),7,done,0.0,0,False,0,6,,,,,,225.6,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),8,done,0.0,0,False,0,6,,,,,,225.1,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),9,done,0.0,0,False,0,6,,,,,,225.3,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),10,done,0.0,0,False,0,6,,,,,,226.8,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),11,done,0.0,0,False,0,6,,,,,,215.4,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),12,done,0.0,0,False,0,6,,,,,,215.4,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),13,done,0.0,0,False,0,6,,,,,,214.1,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),14,done,0.0,0,False,0,6,,,,,,212.0,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),15,done,0.0,0,False,0,6,,,,,,217.5,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),16,done,0.0,0,False,0,6,,,,,,215.3,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),17,done,0.0,0,False,0,6,,,,,,218.1,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),18,done,0.0,0,False,0,6,,,,,,218.0,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),19,done,0.0,0,False,0,6,,,,,,223.0,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),20,done,0.0,0,False,0,6,,,,,,226.3,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),21,done,0.0,1,True,0,6,50.54278891043597,35.714285714285715,,,,235.2,24.060369855217534
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),22,done,0.0,0,False,0,6,,,,,,236.4,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),23,done,0.0,0,False,0,6,,,,,,238.2,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),24,done,0.0,0,False,0,6,,,,,,240.4,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),25,done,0.0,1,True,0,6,48.095031602384545,37.5,,,,240.7,26.060564043059905
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),26,done,0.0,0,False,0,6,,,,,,253.2,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),27,done,0.0,0,False,0,6,,,,,,253.6,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),28,done,0.0,0,False,0,6,,,,,,255.0,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),29,done,0.0,0,False,0,6,,,,,,254.2,
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),30,done,0.0,0,False,0,6,,,,,,264.0,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1,done,0.0,0,False,0,6,,,,,,275.0,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),2,done,0.0,0,False,0,6,,,,,,275.5,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),3,done,0.0,0,False,0,6,,,,,,271.8,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),4,done,0.0,0,False,0,6,,,,,,265.9,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),5,done,0.0,0,False,0,6,,,,,,267.7,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6,done,0.0,0,False,0,6,,,,,,275.0,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7,done,0.0,0,False,0,6,,,,,,275.1,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),8,done,0.0,0,False,0,6,,,,,,264.9,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9,done,0.0,0,False,0,6,,,,,,262.6,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),10,done,0.0,0,False,0,6,,,,,,260.8,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),11,done,0.0,0,False,0,6,,,,,,258.7,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),12,done,0.0,0,False,0,6,,,,,,254.6,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),13,done,0.0,0,False,0,6,,,,,,253.4,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),14,done,0.0,0,False,0,6,,,,,,244.6,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),15,done,0.0,2,True,0,6,56.437719959778775,41.17647058823529,,,,246.1,18.29862759025058
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),16,done,0.0,0,False,0,6,,,,,,235.8,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),17,done,0.0,0,False,0,6,,,,,,239.1,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),18,done,0.0,0,False,0,6,,,,,,242.2,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),19,done,0.0,0,False,0,6,,,,,,244.7,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),20,done,0.0,0,False,0,6,,,,,,242.7,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),21,done,0.0,0,False,0,6,,,,,,243.0,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),22,done,0.0,0,False,0,6,,,,,,249.3,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),23,done,0.0,0,False,0,6,,,,,,255.5,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),24,done,0.0,0,False,0,6,,,,,,256.8,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),25,done,0.0,0,False,0,6,,,,,,252.2,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),26,done,0.0,0,False,0,6,,,,,,247.4,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),27,done,0.0,0,False,0,6,,,,,,238.0,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),28,done,0.0,0,False,0,6,,,,,,237.8,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),29,done,0.0,0,False,0,6,,,,,,237.4,
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),30,done,0.0,0,False,0,6,,,,,,234.5,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),1,done,0.0,0,False,0,6,,,,,,324.6,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),2,done,0.0,1,True,0,6,52.79716117216117,33.33333333333333,,,,332.7,15.659195750527186
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),3,done,0.0,0,False,0,6,,,,,,324.9,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),4,done,0.0,0,False,0,6,,,,,,328.7,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),5,done,0.0,1,True,0,6,50.33043345543345,31.25,,,,332.9,17.86563860083961
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),6,done,0.0,0,False,0,6,,,,,,332.4,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),7,done,0.0,0,False,0,6,,,,,,336.2,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),8,done,0.0,1,True,0,6,52.91330891330892,30.76923076923077,,,,361.1,15.561325225128599
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),9,done,0.0,0,False,0,6,,,,,,361.0,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),10,done,0.0,1,True,0,6,47.371336996337,30.76923076923077,,,,372.2,20.508867829291805
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),11,done,0.0,0,False,0,6,,,,,,378.9,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),12,done,0.0,0,False,0,6,,,,,,380.0,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),13,done,0.0,0,False,0,6,,,,,,379.2,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),14,done,0.0,0,False,0,6,,,,,,379.0,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),15,done,0.0,0,False,0,6,,,,,,371.3,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),16,done,0.0,0,False,0,6,,,,,,371.1,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),17,done,0.0,0,False,0,6,,,,,,368.7,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),18,done,0.0,0,False,0,6,,,,,,367.4,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),19,done,0.0,1,True,0,6,49.95741758241759,37.5,,,,372.0,18.187936921651502
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),20,done,0.0,1,True,0,6,55.7190170940171,31.25,,,,372.6,13.057423381838191
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),21,done,0.0,1,True,0,6,52.01541514041514,33.33333333333333,,,,373.3,16.357074534942328
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),22,done,0.0,1,True,0,6,49.77701465201465,23.076923076923077,,,,379.0,18.379089859806243
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),23,done,0.0,0,False,0,6,,,,,,378.9,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),24,done,0.0,0,False,0,6,,,,,,381.4,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),25,done,0.0,0,False,0,6,,,,,,390.8,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),26,done,0.0,1,True,0,6,52.53983516483517,33.33333333333333,,,,395.0,15.88890459690596
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),27,done,0.0,0,False,0,6,,,,,,394.6,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),28,done,0.0,0,False,0,6,,,,,,392.9,
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),29,done,0.0,1,True,0,6,50.318223443223445,28.57142857142857,,,,391.2,17.882356324189466
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),30,done,0.0,0,False,0,6,,,,,,394.2,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1,done,0.0,2,True,0,6,54.299297924297925,28.57142857142857,,,,452.2,14.336545218316253
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),2,done,0.0,0,False,0,6,,,,,,407.8,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),3,done,0.0,0,False,0,6,,,,,,403.8,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),4,done,0.0,0,False,0,6,,,,,,401.6,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),5,done,0.0,0,False,0,6,,,,,,379.1,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6,done,0.0,0,False,0,6,,,,,,363.8,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7,done,0.0,0,False,0,6,,,,,,344.8,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),8,done,0.0,0,False,0,6,,,,,,278.1,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9,done,0.0,0,False,0,6,,,,,,253.2,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),10,done,0.0,0,False,0,6,,,,,,230.1,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),11,done,0.0,0,False,0,6,,,,,,206.2,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),12,done,0.0,0,False,0,6,,,,,,175.6,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),13,done,0.0,0,False,0,6,,,,,,159.7,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),14,done,0.0,1,True,0,6,53.337606837606835,33.33333333333333,,,,172.6,15.17678965005153
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),15,done,0.0,0,False,0,6,,,,,,159.2,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),16,done,0.0,0,False,0,6,,,,,,157.7,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),17,done,0.0,0,False,0,6,,,,,,157.4,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),18,done,0.0,0,False,0,6,,,,,,158.8,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),19,done,0.0,1,True,0,6,54.100579975579976,33.33333333333333,,,,170.8,14.495847409814335
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),20,done,0.0,0,False,0,6,,,,,,158.2,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),21,done,0.0,0,False,0,6,,,,,,160.5,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),22,done,0.0,1,True,0,6,52.24313186813187,37.5,,,,168.4,16.14616069218154
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),23,done,0.0,0,False,0,6,,,,,,159.4,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),24,done,0.0,0,False,0,6,,,,,,158.8,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),25,done,0.0,0,False,0,6,,,,,,156.3,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),26,done,0.0,1,True,0,6,54.687271062271066,31.25,,,,174.8,13.977517134532896
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),27,done,0.0,0,False,0,6,,,,,,155.9,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),28,done,0.0,0,False,0,6,,,,,,156.0,
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),29,done,0.0,1,True,0,6,54.25427350427351,25.0,,,,169.2,14.381982834413595
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),30,done,0.0,0,False,0,6,,,,,,155.4,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),1,done,0.0,0,False,0,6,,,,,,131.0,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),2,done,0.0,1,True,0,6,48.05372405372405,30.76923076923077,,,,140.5,32.245610172524465
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),3,done,0.0,1,True,0,6,46.92735042735043,31.25,,,,135.9,32.70225135615595
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),4,done,0.0,0,False,0,6,,,,,,138.7,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),5,done,0.0,0,False,0,6,,,,,,135.7,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),6,done,0.0,0,False,0,6,,,,,,139.3,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),7,done,0.0,0,False,0,6,,,,,,136.8,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),8,done,0.0,1,True,0,6,44.04090354090354,18.75,,,,139.9,35.95015148049814
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),9,done,0.0,0,False,0,6,,,,,,141.5,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),10,done,0.0,0,False,0,6,,,,,,142.6,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),11,done,0.0,0,False,0,6,,,,,,142.8,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),12,done,0.0,0,False,0,6,,,,,,140.3,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),13,done,0.0,0,False,0,6,,,,,,142.5,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),14,done,0.0,0,False,0,6,,,,,,142.8,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),15,done,0.0,0,False,0,6,,,,,,141.2,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),16,done,0.0,0,False,0,6,,,,,,141.9,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),17,done,0.0,1,True,0,6,51.02899877899878,33.33333333333333,,,,140.8,28.820070433995127
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),18,done,0.0,0,False,0,6,,,,,,143.9,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),19,done,0.0,0,False,0,6,,,,,,142.0,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),20,done,0.0,0,False,0,6,,,,,,141.8,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),21,done,0.0,0,False,0,6,,,,,,140.4,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),22,done,0.0,0,False,0,6,,,,,,148.1,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),23,done,0.0,0,False,0,6,,,,,,150.7,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),24,done,0.0,0,False,0,6,,,,,,163.5,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),25,done,0.0,1,True,0,6,46.19826007326007,33.33333333333333,,,,225.9,34.14064218522451
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),26,done,0.0,0,False,0,6,,,,,,308.8,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),27,done,0.0,0,False,0,6,,,,,,410.2,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),28,done,0.0,0,False,0,6,,,,,,446.9,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),29,done,0.0,0,False,0,6,,,,,,460.6,
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),30,done,0.0,0,False,0,6,,,,,,460.9,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1,done,0.0,2,True,0,6,46.40201465201465,26.666666666666668,,,,502.6,33.03308661057835
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),2,done,0.0,0,False,0,6,,,,,,470.8,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),3,done,0.0,0,False,0,6,,,,,,472.1,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),4,done,0.0,0,False,0,6,,,,,,465.4,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),5,done,0.0,0,False,0,6,,,,,,459.0,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6,done,0.0,1,True,0,6,52.03174603174603,33.33333333333333,,,,459.7,26.19164909387845
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7,done,0.0,0,False,0,6,,,,,,450.9,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),8,done,0.0,1,True,0,6,56.17689255189255,33.33333333333333,,,,479.4,21.563909979445064
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9,done,0.0,0,False,0,6,,,,,,440.4,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),10,done,0.0,0,False,0,6,,,,,,448.5,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),11,done,0.0,0,False,0,6,,,,,,450.2,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),12,done,0.0,0,False,0,6,,,,,,450.3,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),13,done,0.0,0,False,0,6,,,,,,451.1,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),14,done,0.0,1,True,0,6,52.721611721611715,33.33333333333333,,,,499.7,25.36270758208237
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),15,done,0.0,1,True,0,6,51.835470085470085,30.76923076923077,,,,493.8,26.585996916609275
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),16,done,0.0,0,False,0,6,,,,,,451.8,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),17,done,0.0,0,False,0,6,,,,,,451.2,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),18,done,0.0,0,False,0,6,,,,,,440.8,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),19,done,0.0,0,False,0,6,,,,,,440.5,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),20,done,0.0,0,False,0,6,,,,,,435.2,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),21,done,0.0,0,False,0,6,,,,,,434.7,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),22,done,0.0,1,True,0,6,51.422619047619044,33.33333333333333,,,,465.0,26.923675077723676
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),23,done,0.0,0,False,0,6,,,,,,432.7,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),24,done,0.0,1,True,0,6,42.84661172161172,25.0,,,,463.9,37.25603540671952
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),25,done,0.0,0,False,0,6,,,,,,432.3,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),26,done,0.0,1,True,0,6,53.33775946275946,37.5,,,,468.8,24.610871615110284
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),27,done,0.0,0,False,0,6,,,,,,430.7,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),28,done,0.0,0,False,0,6,,,,,,431.5,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),29,done,0.0,0,False,0,6,,,,,,429.6,
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),30,done,0.0,0,False,0,6,,,,,,425.6,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),1,done,0.0,0,False,0,6,,,,,,561.9,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),2,done,0.0,1,True,0,6,53.06934568699274,37.5,,,,561.6,20.855192543032945
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),3,done,0.0,0,False,0,6,,,,,,562.1,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),4,done,0.0,0,False,0,6,,,,,,562.6,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),5,done,0.0,0,False,0,6,,,,,,564.1,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),6,done,0.0,1,True,0,6,52.05316742081448,30.76923076923077,,,,565.6,22.228797073156638
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),7,done,0.0,0,False,0,6,,,,,,564.2,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),8,done,0.0,1,True,0,6,48.290589312648144,35.714285714285715,,,,519.7,27.15964767878343
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),9,done,0.0,1,True,0,6,52.29309416074122,40.0,,,,321.7,21.8670740110201
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),10,done,0.0,1,True,0,6,49.462400344753284,37.5,,,,316.6,25.608035368969134
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),11,done,0.0,0,False,0,6,,,,,,313.8,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),12,done,0.0,1,True,0,6,52.17683868419162,33.33333333333333,,,,309.9,22.051508456443184
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),13,done,0.0,0,False,0,6,,,,,,294.7,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),14,done,0.0,0,False,0,6,,,,,,241.8,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),15,done,0.0,0,False,0,6,,,,,,227.0,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),16,done,0.0,1,True,0,6,53.37459599224305,37.5,,,,194.8,20.453173705451476
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),17,done,0.0,1,True,0,6,50.74104898369604,31.25,,,,195.7,23.952583582935446
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),18,done,0.0,1,True,0,6,48.76256913021619,33.33333333333333,,,,196.1,26.547743939636753
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),19,done,0.0,0,False,0,6,,,,,,196.6,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),20,done,0.0,0,False,0,6,,,,,,198.9,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),21,done,0.0,0,False,0,6,,,,,,196.6,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),22,done,0.0,1,True,0,6,53.20812684047978,43.75,,,,201.1,20.647066594422938
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),23,done,0.0,1,True,0,6,52.56465919701214,28.57142857142857,,,,200.4,21.57007721541713
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),24,done,0.0,1,True,0,6,53.17533038856568,30.76923076923077,,,,229.3,20.75312301746162
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),25,done,0.0,1,True,0,6,52.249138116785176,33.33333333333333,,,,420.4,21.956350436426536
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),26,done,0.0,0,False,0,6,,,,,,424.1,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),27,done,0.0,0,False,0,6,,,,,,427.9,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),28,done,0.0,0,False,0,6,,,,,,448.0,
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),29,done,0.0,1,True,0,6,51.42428894634777,26.666666666666668,,,,452.8,23.081392766212474
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),30,done,0.0,1,True,0,6,49.54848093083387,35.714285714285715,,,,514.5,25.5018057002725
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1,done,0.0,2,True,0,6,54.65095525389643,37.5,,,,608.4,18.790951675499112
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),2,done,0.0,0,False,0,6,,,,,,589.8,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),3,done,0.0,0,False,0,6,,,,,,549.2,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),4,done,0.0,0,False,0,6,,,,,,546.9,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),5,done,0.0,0,False,0,6,,,,,,549.1,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6,done,0.0,0,False,0,6,,,,,,549.0,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7,done,0.0,1,True,0,6,50.13379839115133,33.33333333333333,,,,571.6,24.74145862331949
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),8,done,0.0,0,False,0,6,,,,,,549.5,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9,done,0.0,0,False,0,6,,,,,,548.7,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),10,done,0.0,1,True,0,6,53.299594196653025,31.25,,,,602.1,20.58670948596264
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),11,done,0.0,0,False,0,6,,,,,,582.9,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),12,done,0.0,1,True,0,6,55.75992961287079,40.0,,,,629.7,17.299866656140882
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),13,done,0.0,0,False,0,6,,,,,,583.0,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),14,done,0.0,1,True,0,6,54.42236766501472,33.33333333333333,,,,652.1,19.097443648234183
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),15,done,0.0,0,False,0,6,,,,,,583.3,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),16,done,0.0,0,False,0,6,,,,,,585.2,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),17,done,0.0,0,False,0,6,,,,,,594.0,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),18,done,0.0,0,False,0,6,,,,,,596.8,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),19,done,0.0,0,False,0,6,,,,,,620.7,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),20,done,0.0,0,False,0,6,,,,,,621.1,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),21,done,0.0,0,False,0,6,,,,,,624.2,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),22,done,0.0,3,True,0,6,54.4054711628241,43.75,,,,681.3,19.083638638010967
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),23,done,0.0,0,False,0,6,,,,,,624.3,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),24,done,0.0,0,False,0,6,,,,,,626.7,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),25,done,0.0,1,True,0,6,55.0142031171443,26.666666666666668,,,,673.0,18.368837930483487
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),26,done,0.0,0,False,0,6,,,,,,613.1,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),27,done,0.0,0,False,0,6,,,,,,581.4,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),28,done,0.0,0,False,0,6,,,,,,580.6,
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),29,done,0.0,3,True,0,6,55.262371615312794,43.75,,,,621.9,17.95502479116603
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),30,done,0.0,1,True,0,6,52.61685699920994,40.0,,,,624.4,21.440362145633475
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),1,done,0.0,0,False,0,6,,,,,,207.6,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),2,done,0.0,1,True,0,6,47.90847877612584,30.76923076923077,,,,214.4,49.07942689614667
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),3,done,0.0,1,True,0,6,49.01455325720031,23.076923076923077,,,,222.3,46.32443469009949
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),4,done,0.0,1,True,0,6,48.41580478345184,33.33333333333333,,,,221.9,48.2731149879416
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),5,done,0.0,1,True,0,6,52.3902266034619,37.5,,,,215.6,39.73875798848508
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),6,done,0.0,0,False,0,6,,,,,,208.5,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),7,done,0.0,1,True,0,6,45.25757738993033,25.0,,,,209.5,53.63486173328316
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),8,done,0.0,1,True,0,6,49.7865761689291,33.33333333333333,,,,213.6,44.94216570233027
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),9,done,0.0,1,True,0,6,49.1244882568412,26.666666666666668,,,,211.2,46.470015366291065
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),10,done,0.0,1,True,0,6,46.91742081447964,33.33333333333333,,,,217.9,50.42722708475
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),11,done,0.0,0,False,0,6,,,,,,229.4,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),12,done,0.0,1,True,0,6,52.54808590102707,40.0,,,,231.0,39.57433979106614
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),13,done,0.0,1,True,0,6,49.20324283559578,30.76923076923077,,,,230.2,46.782130387574284
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),14,done,0.0,0,False,0,6,,,,,,228.8,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),15,done,0.0,0,False,0,6,,,,,,225.6,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),16,done,0.0,0,False,0,6,,,,,,95.3,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),17,done,0.0,1,True,0,6,40.881140917905626,33.33333333333333,,,,95.4,62.58284255887129
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),18,done,0.0,0,False,0,6,,,,,,94.0,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),19,done,0.0,1,True,0,6,50.88283775048481,31.25,,,,95.4,42.74970905657753
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),20,done,0.0,1,True,0,6,47.876122243769295,30.76923076923077,,,,143.4,48.650573570494956
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),21,done,0.0,1,True,0,6,51.47940458234576,33.33333333333333,,,,144.7,41.584320911659745
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),22,done,0.0,1,True,0,6,50.565790418731595,30.76923076923077,,,,145.0,43.446789757943435
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),23,done,0.0,1,True,0,6,49.42958593693888,37.5,,,,144.2,45.53965009977397
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),24,done,0.0,1,True,0,6,49.36746749982044,37.5,,,,144.3,45.6601000831399
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),25,done,0.0,1,True,0,6,48.3712382388853,30.76923076923077,,,,141.3,47.53465910272119
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),26,done,0.0,0,False,0,6,,,,,,144.3,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),27,done,0.0,0,False,0,6,,,,,,144.8,
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),28,done,0.0,1,True,0,6,49.98849924585219,35.714285714285715,,,,139.8,44.40665919591189
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),29,done,0.0,1,True,0,6,50.714581986640816,37.5,,,,139.1,43.23394023376971
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),30,done,0.0,1,True,0,6,41.55384974502622,23.076923076923077,,,,137.7,61.46249546726491
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1,done,0.0,1,True,0,6,50.89840551605257,33.33333333333333,,,,146.4,42.60428921250866
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),2,done,0.0,0,False,0,6,,,,,,139.6,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),3,done,0.0,0,False,0,6,,,,,,139.6,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),4,done,0.0,1,True,0,6,53.15959204194498,40.0,,,,150.6,38.196612925891756
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),5,done,0.0,2,True,0,6,51.26545105221576,37.5,,,,142.0,41.894624218401546
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6,done,0.0,1,True,0,6,56.82993966817496,40.0,,,,151.1,31.070652312427338
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7,done,0.0,0,False,0,6,,,,,,141.0,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),8,done,0.0,0,False,0,6,,,,,,141.1,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9,done,0.0,2,True,0,6,52.03088414853121,30.76923076923077,,,,152.8,40.456852943920886
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),10,done,0.0,0,False,0,6,,,,,,141.0,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),11,done,0.0,0,False,0,6,,,,,,140.9,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),12,done,0.0,0,False,0,6,,,,,,139.5,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),13,done,0.0,2,True,0,6,50.69774833010127,40.0,,,,151.3,43.023044146107615
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),14,done,0.0,1,True,0,6,50.94692235868707,20.0,,,,149.7,42.58409544579851
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),15,done,0.0,0,False,0,6,,,,,,140.7,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),16,done,0.0,1,True,0,6,54.753169216404515,37.5,,,,152.0,35.15599623609995
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),17,done,0.0,2,True,0,6,50.54553616318322,33.33333333333333,,,,147.0,43.393463539284426
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),18,done,0.0,0,False,0,6,,,,,,140.2,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),19,done,0.0,0,False,0,6,,,,,,140.6,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),20,done,0.0,1,True,0,6,48.79956726280255,31.25,,,,151.9,46.957035060428254
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),21,done,0.0,0,False,0,6,,,,,,142.9,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),22,done,0.0,1,True,0,6,51.252998635351574,37.5,,,,157.4,41.94542834689444
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),23,done,0.0,0,False,0,6,,,,,,151.6,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),24,done,0.0,1,True,0,6,51.78469977734684,37.5,,,,164.8,40.8647258431788
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),25,done,0.0,0,False,0,6,,,,,,153.7,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),26,done,0.0,0,False,0,6,,,,,,152.1,
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),27,done,0.0,1,True,0,6,51.80861703655821,33.33333333333333,,,,161.1,40.8366565703299
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),28,done,0.0,2,True,0,6,51.59248186454069,33.33333333333333,,,,158.6,41.33949323215834
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),29,done,0.0,1,True,0,6,49.30264669970553,33.33333333333333,,,,155.4,45.703829859859866
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),30,done,0.0,1,True,0,6,51.388484881131944,37.5,,,,132.5,41.68250012663541
+S1_TOL0,Method 3: CP-SAT alone (exact solver),1,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,151.0,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.9,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",2,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.6,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",3,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.1,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",4,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.3,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",5,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1495.6,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",6,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1496.2,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",7,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1495.8,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",8,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1495.9,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",9,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.2,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",10,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.6,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",11,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.6,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",12,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.1,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",13,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1494.7,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",14,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.9,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",15,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1494.0,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",16,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1494.9,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",17,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.2,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",18,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.6,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",19,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.3,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",20,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1493.3,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",21,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.8,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",22,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.4,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",23,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.5,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",24,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.3,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",25,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.4,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",26,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.7,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",27,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.3,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",28,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.5,0.014405762304922043
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",29,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.4,0.0
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",30,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.4,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,1,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.8,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,2,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.7,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,3,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.0,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,4,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,5,done,21530.86839310887,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.4,0.003932636254277351
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,6,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,7,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.8,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,8,done,21530.86839310887,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.3,0.003932636254277351
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,9,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.3,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,10,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.5,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,11,done,21473.504572769274,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.9,0.014932903786416407
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,12,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.5,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,13,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,14,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1490.9,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,15,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,16,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.0,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,17,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,18,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.2,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,19,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.4,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,20,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.2,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,21,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.0,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,22,done,21538.948548247845,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.7,0.0
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,23,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,24,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.1,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,25,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.3,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,26,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.6,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,27,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1492.2,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,28,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.3,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,29,done,21480.045650738917,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.3,0.014405762304922043
+S1_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,30,done,21473.504572769274,4,True,4,6,72.15124254830137,66.66666666666666,4.0,4.0,0.0,1491.2,0.014932903786416407
+S1_TOL1,Method 3: CP-SAT alone (exact solver),1,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,180.6,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.2,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",2,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.8,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",3,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.5,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",4,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.0,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",5,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.4,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",6,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.4,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",7,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.1,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",8,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.9,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",9,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.6,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",10,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.1,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",11,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.0,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",12,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.6,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",13,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.0,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",14,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.1,0.0071987556901912915
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",15,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.4,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",16,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.9,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",17,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.9,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",18,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.2,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",19,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.8,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",20,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.4,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",21,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.9,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",22,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.7,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",23,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.6,0.0
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",24,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.3,0.0071987556901912915
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",25,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1494.7,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",26,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1494.6,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",27,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.5,0.027309942361629678
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",28,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.6,0.026344086021505352
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",29,done,34211.56443346568,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.7,0.02658883956061714
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",30,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.0,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,1,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.1,0.0
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,2,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.8,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,3,done,34211.56443346568,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.9,0.02658883956061714
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,4,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.2,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,5,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.8,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,6,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.1,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,7,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.2,0.0
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,8,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.2,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,9,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.9,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,10,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.0,0.0
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,11,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.6,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,12,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.3,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,13,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.1,0.0
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,14,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.0,0.0
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,15,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.2,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,16,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.4,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,17,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1492.8,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,18,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.3,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,19,done,34239.39327333497,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.6,0.0035993778450956458
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,20,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.8,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,21,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1496.3,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,22,done,34211.56443346568,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.5,0.02658883956061714
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,23,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.0,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,24,done,34219.1702535715,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1494.8,0.026344086021505352
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,25,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.0,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,26,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1494.8,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,27,done,34229.472638414336,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1494.1,0.0071987556901912915
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,28,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1495.2,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,29,done,34203.958613359864,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.6,0.027309942361629678
+S1_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,30,done,34249.3139082556,4,True,6,6,76.85174710910005,71.42857142857143,4.0,4.0,0.0,1493.9,0.0
+S2_TOL0,Method 3: CP-SAT alone (exact solver),1,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,726.0,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1,done,17675.666099773243,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.3,0.003104530567684855
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",2,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.6,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",3,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.7,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",4,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.0,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",5,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.1,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",6,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.2,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",7,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.1,0.0040938864628828385
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",8,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.8,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",9,done,17667.729591836734,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.9,0.0081877729257625
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",10,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.1,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",11,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.8,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",12,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.7,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",13,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1497.1,0.0040938864628828385
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",14,done,17666.50859061574,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.9,0.0071984170305645166
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",15,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.5,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",16,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.2,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",17,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.5,0.0040938864628828385
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",18,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.5,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",19,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.9,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",20,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.7,0.0040938864628828385
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",21,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.9,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",22,done,17666.50859061574,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.5,0.0071984170305645166
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",23,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.7,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",24,done,17676.88710099425,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1497.0,0.004093886462879661
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",25,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.9,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",26,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.1,0.0040938864628828385
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",27,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.1,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",28,done,17666.50859061574,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.7,0.0071984170305645166
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",29,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.4,0.0
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",30,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.5,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,1,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.7,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,2,done,17669.9426565498,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1497.0,0.0071984170305645166
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,3,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.0,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,4,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.3,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,5,done,17675.666099773243,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.8,0.003104530567684855
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,6,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.9,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,7,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.3,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,8,done,17676.88710099425,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.0,0.004093886462879661
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,9,done,17675.666099773243,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.6,0.003104530567684855
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,10,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.8,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,11,done,17676.88710099425,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.0,0.004093886462879661
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,12,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.4,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,13,done,17667.729591836734,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.2,0.0081877729257625
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,14,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.3,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,15,done,17666.50859061574,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.1,0.0071984170305645166
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,16,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.2,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,17,done,17676.88710099425,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1497.0,0.004093886462879661
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,18,done,17676.88710099425,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.7,0.004093886462879661
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,19,done,17675.666099773243,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.7,0.003104530567684855
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,20,done,17671.1636577708,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.6,0.008187772925762499
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,21,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.5,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,22,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.2,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,23,done,17658.57208267922,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.8,0.010746451965067847
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,24,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.8,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,25,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.4,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,26,done,17673.453035060174,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.8,0.0040938864628828385
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,27,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1495.8,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,28,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.2,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,29,done,17682.610544217685,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1496.8,0.0
+S2_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,30,done,17675.666099773243,4,True,2,6,70.63461538461539,64.28571428571429,4.0,4.0,0.0,1497.5,0.003104530567684855
+S2_TOL1,Method 3: CP-SAT alone (exact solver),1,done,26778.455051892557,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1175.7,0.014476102941175038
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.6,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",2,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.3,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",3,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.5,0.0
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",4,done,26783.415369352882,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.8,0.009696691176466111
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",5,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.9,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",6,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.8,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",7,done,26782.032203907216,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.7,0.011029411764699086
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",8,done,26771.34844322345,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.4,0.021323529411766115
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",9,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.7,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",10,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.9,0.0
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",11,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.9,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",12,done,26776.30876068377,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.6,0.016544117647057186
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",13,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.3,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",14,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.5,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",15,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.9,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",16,done,26782.795329670334,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.7,0.010294117647058471
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",17,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.4,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",18,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.6,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",19,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.3,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",20,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.2,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",21,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.3,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",22,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1499.5,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",23,done,26777.69192612943,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1498.0,0.015211397058824211
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",24,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.7,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",25,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1493.8,0.005514705882349543
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",26,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.5,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",27,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1498.3,0.0
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",28,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.7,0.0
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",29,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1498.4,0.011029411764707644
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",30,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.6,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,1,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.5,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,2,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.0,0.011029411764707644
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,3,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.5,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,4,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.4,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,5,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.3,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,6,done,26783.41536935287,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1497.4,0.00969669117647039
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,7,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.7,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,8,done,26783.415369352882,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.2,0.009696691176466111
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,9,done,26771.34844322345,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.1,0.021323529411766115
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,10,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.8,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,11,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.5,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,12,done,26783.415369352882,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1493.0,0.009696691176466111
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,13,done,26771.968482905988,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1494.7,0.020726102941178035
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,14,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1494.2,0.0
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,15,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1494.3,0.0
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,16,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.7,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,17,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.1,0.0
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,18,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.2,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,19,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.6,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,20,done,26782.032203907216,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.9,0.011029411764699086
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,21,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.3,0.0
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,22,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1493.5,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,23,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.9,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,24,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1494.0,0.0
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,25,done,26782.03220390721,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1495.3,0.011029411764707644
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,26,done,26793.479090354092,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1494.8,0.0
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,27,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.1,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,28,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1494.1,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,29,done,26787.755647130656,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1496.4,0.005514705882349543
+S2_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,30,done,26782.032203907216,4,True,5,6,74.01007326007327,68.75,4.0,4.0,0.0,1493.9,0.011029411764699086
+S3_TOL0,Method 3: CP-SAT alone (exact solver),1,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,177.9,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1,done,15339.095013005192,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.7,0.021109188112706817
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",2,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.4,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",3,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.4,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",4,done,15349.635687608366,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.3,0.0060455908676028
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",5,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.6,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",6,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.1,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",7,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.6,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",8,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.9,0.009824085159850445
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",9,done,15344.055330465511,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.7,0.015869676027453247
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",10,done,15348.109436082115,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.3,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",11,done,15348.109436082115,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.9,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",12,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.5,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",13,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.3,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",14,done,15348.109436082115,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.5,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",15,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.1,0.009824085159850445
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",16,done,15342.529078939258,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.7,0.015063597245104015
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",17,done,15344.513205923386,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.0,0.015063597245104017
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",18,done,15345.133245605924,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.7,0.010479024170507141
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",19,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.6,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",20,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.8,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",21,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.3,0.009824085159850445
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",22,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.9,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",23,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.6,0.009824085159850445
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",24,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.6,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",25,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.6,0.005239512085253571
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",26,done,15342.529078939258,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.5,0.015063597245104015
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",27,done,15349.635687608366,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.7,0.0060455908676028
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",28,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.0,0.0
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",29,done,15346.65949713218,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.6,0.01128510295285168
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",30,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.2,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,1,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.9,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,2,done,15346.65949713218,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.8,0.01128510295285168
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,3,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.3,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,4,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.5,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,5,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.0,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,6,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1497.2,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,7,done,15344.055330465511,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.1,0.015869676027453247
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,8,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.2,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,9,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.2,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,10,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.1,0.005239512085253571
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,11,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.1,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,12,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.3,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,13,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.9,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,14,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.0,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,15,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.4,0.005239512085253571
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,16,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.9,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,17,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.9,0.005239512085253571
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,18,done,15348.109436082115,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1496.4,0.005239512085253571
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,19,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1497.0,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,20,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1497.3,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,21,done,15342.529078939258,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1497.0,0.015063597245104015
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,22,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1497.0,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,23,done,15348.109436082115,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.1,0.005239512085253571
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,24,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.7,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,25,done,15341.079139989319,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.1,0.021109188112706817
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,26,done,15339.55288846307,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.8,0.020303109330357588
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,27,done,15344.513205923386,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.2,0.015063597245104017
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,28,done,15353.069753542431,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1494.9,0.0
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,29,done,15347.489396399575,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.7,0.009824085159850445
+S3_TOL0,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,30,done,15350.09356306624,4,True,0,6,69.08792106586223,64.28571428571429,4.0,4.0,0.0,1495.0,0.005239512085253571
+S3_TOL1,Method 3: CP-SAT alone (exact solver),1,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.0,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",1,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.1,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",2,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.2,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",3,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.6,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",4,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.9,0.007719714964375783
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",5,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.2,0.008907363420429342
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",6,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.7,0.008907363420429342
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",7,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.5,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",8,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.2,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",9,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.1,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",10,done,24989.159686310428,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.5,0.016627078384805125
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",11,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.5,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",12,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.0,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",13,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.0,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",14,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.3,0.007719714964375783
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",15,done,24983.436243086984,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.9,0.025534441805227556
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",16,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1498.1,0.007719714964375783
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",17,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1499.0,0.008907363420429342
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",18,done,24983.436243086988,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1498.7,0.025534441805220645
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",19,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1499.5,0.008907363420429342
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",20,done,24989.159686310428,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1500.4,0.016627078384805125
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",21,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1500.2,0.007719714964375783
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",22,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1500.2,0.007719714964375783
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",23,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1499.7,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",24,done,24987.251871902616,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1500.8,0.016627078384798214
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",25,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1501.2,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",26,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1500.4,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",27,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1501.4,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",28,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.8,0.0
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",29,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.8,0.007719714964375783
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",30,done,24989.159686310428,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.0,0.016627078384805125
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,1,done,24994.12000377075,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.8,0.008907363420422431
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,2,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.5,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,3,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.5,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,4,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.9,0.007719714964375783
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,5,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.0,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,6,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.7,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,7,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.8,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,8,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.3,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,9,done,24989.159686310428,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1494.8,0.016627078384805125
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,10,done,24989.159686310428,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.1,0.016627078384805125
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,11,done,24989.159686310428,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.7,0.016627078384805125
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,12,done,24962.307198520444,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.6,0.05544833729215694
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,13,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1498.0,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,14,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.8,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,15,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.1,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,16,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.6,0.007719714964375783
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,17,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.2,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,18,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.0,0.007719714964375783
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,19,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.0,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,20,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.8,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,21,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.7,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,22,done,24979.620614271356,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.3,0.03444180522564999
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,23,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.9,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,24,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.0,0.007719714964375783
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,25,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.6,0.007719714964375783
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,26,done,24994.120003770746,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.6,0.008907363420429342
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,27,done,24990.304374955118,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1497.6,0.017814726840851773
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,28,done,24997.935632586377,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1496.7,0.0
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,29,done,24987.251871902616,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1495.7,0.016627078384798214
+S3_TOL1,Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning,30,done,24992.975315126056,4,True,4,6,72.96618903971846,68.75,4.0,4.0,0.0,1487.4,0.007719714964375783

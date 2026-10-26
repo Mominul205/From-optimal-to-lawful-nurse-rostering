@@ -1,0 +1,9 @@
+{
+  "name": "L100_S2",
+  "pattern": "S2",
+  "seed": 1002,
+  "tolerance": 1,
+  "min_F2": 53,
+  "max_F3": 0,
+  "initial_F1": 74.6701588530149
+}

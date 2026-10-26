@@ -1,0 +1,283 @@
+Step 1 - data consistency checks
+================================
+PASS 278   FAIL 0
+
+[PASS] 36 Excel reports found in the repository
+[PASS] 18 result files found in the repository
+[PASS] S1: 12 reports (2 algorithms x 3 levels x 2 tolerance modes)
+[PASS] S1: staff requests identical in all 12 reports
+[PASS] S1: staffing requirements identical in all 12 reports
+[PASS] S1: shift lengths add up to 24 hours
+[PASS] S1: shifts follow each other without gaps or overlaps within a day
+[PASS] S1: 6 result files
+[PASS] S1: shift lengths match the result files [6.0, 6.0, 6.0, 6.0]
+[PASS] S1: contracted hours identical in all result files
+[PASS] S1: 30 staff members
+[PASS] S1: 21 days in result files
+[PASS] S1: weekly contracts in the Excel reports equal those of the result files
+[PASS] S1: days are 1..21
+[PASS] S1: one requirement for every day-shift slot
+[PASS] S1: every slot requires at least one staff member
+[PASS] S1: every requester is a known staff member
+[PASS] S1: request counts agree between sheets 3 and 5
+[PASS] S1: request totals R_i agree with sheet 1
+[PASS] S1: every staff member has at least one request (Equation 15 defined)
+[PASS] S1: total requirement 434 equals Table 4 of the paper (434)
+[PASS] S1: no overlapping slots (set O of Equation 4 is empty)
+[PASS] S2: 12 reports (2 algorithms x 3 levels x 2 tolerance modes)
+[PASS] S2: staff requests identical in all 12 reports
+[PASS] S2: staffing requirements identical in all 12 reports
+[PASS] S2: shift lengths add up to 24 hours
+[PASS] S2: shifts follow each other without gaps or overlaps within a day
+[PASS] S2: 6 result files
+[PASS] S2: shift lengths match the result files [8.0, 5.0, 4.0, 3.0, 4.0]
+[PASS] S2: contracted hours identical in all result files
+[PASS] S2: 30 staff members
+[PASS] S2: 21 days in result files
+[PASS] S2: weekly contracts in the Excel reports equal those of the result files
+[PASS] S2: days are 1..21
+[PASS] S2: one requirement for every day-shift slot
+[PASS] S2: every slot requires at least one staff member
+[PASS] S2: every requester is a known staff member
+[PASS] S2: request counts agree between sheets 3 and 5
+[PASS] S2: request totals R_i agree with sheet 1
+[PASS] S2: every staff member has at least one request (Equation 15 defined)
+[PASS] S2: total requirement 431 equals Table 4 of the paper (431)
+[PASS] S2: no overlapping slots (set O of Equation 4 is empty)
+[PASS] S3: 12 reports (2 algorithms x 3 levels x 2 tolerance modes)
+[PASS] S3: staff requests identical in all 12 reports
+[PASS] S3: staffing requirements identical in all 12 reports
+[PASS] S3: shift lengths add up to 24 hours
+[PASS] S3: shifts follow each other without gaps or overlaps within a day
+[PASS] S3: 6 result files
+[PASS] S3: shift lengths match the result files [4.0, 4.0, 4.0, 4.0, 4.0, 4.0]
+[PASS] S3: contracted hours identical in all result files
+[PASS] S3: 30 staff members
+[PASS] S3: 21 days in result files
+[PASS] S3: weekly contracts in the Excel reports equal those of the result files
+[PASS] S3: days are 1..21
+[PASS] S3: one requirement for every day-shift slot
+[PASS] S3: every slot requires at least one staff member
+[PASS] S3: every requester is a known staff member
+[PASS] S3: request counts agree between sheets 3 and 5
+[PASS] S3: request totals R_i agree with sheet 1
+[PASS] S3: every staff member has at least one request (Equation 15 defined)
+[PASS] S3: total requirement 432 equals Table 4 of the paper (432)
+[PASS] S3: no overlapping slots (set O of Equation 4 is empty)
+[PASS] GA_S1_EXTREME_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S1_EXTREME_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S1_EXTREME_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S1_EXTREME_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S1_EXTREME_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S1_EXTREME_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S1_EXTREME_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S1_EXTREME_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S1_EXTREME_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S1_EXTREME_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S1_EXTREME_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S1_EXTREME_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S1_HARD_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S1_HARD_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S1_HARD_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S1_HARD_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S1_HARD_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S1_HARD_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S1_HARD_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S1_HARD_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S1_HARD_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S1_HARD_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S1_HARD_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S1_HARD_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S1_MEDIUM_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S1_MEDIUM_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S1_MEDIUM_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S1_MEDIUM_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S1_MEDIUM_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S1_MEDIUM_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S1_MEDIUM_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S1_MEDIUM_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S1_MEDIUM_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S1_MEDIUM_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S1_MEDIUM_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S1_MEDIUM_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S2_EXTREME_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S2_EXTREME_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S2_EXTREME_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S2_EXTREME_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S2_EXTREME_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S2_EXTREME_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S2_EXTREME_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S2_EXTREME_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S2_EXTREME_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S2_EXTREME_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S2_EXTREME_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S2_EXTREME_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S2_HARD_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S2_HARD_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S2_HARD_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S2_HARD_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S2_HARD_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S2_HARD_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S2_HARD_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S2_HARD_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S2_HARD_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S2_HARD_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S2_HARD_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S2_HARD_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S2_MEDIUM_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S2_MEDIUM_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S2_MEDIUM_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S2_MEDIUM_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S2_MEDIUM_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S2_MEDIUM_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S2_MEDIUM_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S2_MEDIUM_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S2_MEDIUM_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S2_MEDIUM_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S2_MEDIUM_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S2_MEDIUM_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S3_EXTREME_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S3_EXTREME_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S3_EXTREME_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S3_EXTREME_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S3_EXTREME_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S3_EXTREME_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S3_EXTREME_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S3_EXTREME_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S3_EXTREME_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S3_EXTREME_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S3_EXTREME_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S3_EXTREME_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S3_HARD_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S3_HARD_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S3_HARD_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S3_HARD_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S3_HARD_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S3_HARD_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S3_HARD_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S3_HARD_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S3_HARD_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S3_HARD_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S3_HARD_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S3_HARD_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S3_MEDIUM_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S3_MEDIUM_TOL0: sheet 4 request status agrees with the requests
+[PASS] GA_S3_MEDIUM_TOL0: sheets 4 and 5 give the same roster
+[PASS] GA_S3_MEDIUM_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S3_MEDIUM_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S3_MEDIUM_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] GA_S3_MEDIUM_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] GA_S3_MEDIUM_TOL1: sheet 4 request status agrees with the requests
+[PASS] GA_S3_MEDIUM_TOL1: sheets 4 and 5 give the same roster
+[PASS] GA_S3_MEDIUM_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] GA_S3_MEDIUM_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] GA_S3_MEDIUM_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S1_EXTREME_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S1_EXTREME_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S1_EXTREME_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S1_EXTREME_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S1_EXTREME_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S1_EXTREME_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S1_EXTREME_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S1_EXTREME_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S1_EXTREME_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S1_EXTREME_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S1_EXTREME_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S1_EXTREME_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S1_HARD_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S1_HARD_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S1_HARD_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S1_HARD_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S1_HARD_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S1_HARD_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S1_HARD_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S1_HARD_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S1_HARD_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S1_HARD_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S1_HARD_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S1_HARD_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S1_MEDIUM_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S1_MEDIUM_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S1_MEDIUM_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S1_MEDIUM_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S1_MEDIUM_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S1_MEDIUM_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S1_MEDIUM_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S1_MEDIUM_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S1_MEDIUM_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S1_MEDIUM_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S1_MEDIUM_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S1_MEDIUM_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S2_EXTREME_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S2_EXTREME_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S2_EXTREME_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S2_EXTREME_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S2_EXTREME_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S2_EXTREME_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S2_EXTREME_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S2_EXTREME_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S2_EXTREME_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S2_EXTREME_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S2_EXTREME_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S2_EXTREME_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S2_HARD_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S2_HARD_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S2_HARD_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S2_HARD_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S2_HARD_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S2_HARD_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S2_HARD_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S2_HARD_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S2_HARD_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S2_HARD_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S2_HARD_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S2_HARD_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S2_MEDIUM_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S2_MEDIUM_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S2_MEDIUM_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S2_MEDIUM_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S2_MEDIUM_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S2_MEDIUM_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S2_MEDIUM_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S2_MEDIUM_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S2_MEDIUM_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S2_MEDIUM_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S2_MEDIUM_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S2_MEDIUM_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S3_EXTREME_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S3_EXTREME_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S3_EXTREME_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S3_EXTREME_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S3_EXTREME_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S3_EXTREME_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S3_EXTREME_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S3_EXTREME_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S3_EXTREME_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S3_EXTREME_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S3_EXTREME_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S3_EXTREME_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S3_HARD_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S3_HARD_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S3_HARD_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S3_HARD_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S3_HARD_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S3_HARD_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S3_HARD_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S3_HARD_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S3_HARD_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S3_HARD_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S3_HARD_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S3_HARD_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S3_MEDIUM_TOL0: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S3_MEDIUM_TOL0: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S3_MEDIUM_TOL0: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S3_MEDIUM_TOL0: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S3_MEDIUM_TOL0: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S3_MEDIUM_TOL0: fairness thresholds of the result file equal Table 3 of the paper
+[PASS] NSGA3_S3_MEDIUM_TOL1: roster rows valid (known staff, days and shifts; no duplicates)
+[PASS] NSGA3_S3_MEDIUM_TOL1: sheet 4 request status agrees with the requests
+[PASS] NSGA3_S3_MEDIUM_TOL1: sheets 4 and 5 give the same roster
+[PASS] NSGA3_S3_MEDIUM_TOL1: sheet 2 lists exactly the unrequested assignments
+[PASS] NSGA3_S3_MEDIUM_TOL1: shift numbering of sheet 2 equals the shift ids
+[PASS] NSGA3_S3_MEDIUM_TOL1: fairness thresholds of the result file equal Table 3 of the paper
+[NOTE] Published rosters extracted  ->  36 files in E:\Research\Healthcare staff scheduling\@ Codes\wlb_phase1\data\processed\published_rosters

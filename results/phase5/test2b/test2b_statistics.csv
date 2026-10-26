@@ -1,0 +1,25 @@
+configuration,compared_with,p_value,p_holm
+S1_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),6.296973107903585e-13,2.518789243161434e-12
+S1_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),6.296973107903585e-13,2.518789243161434e-12
+S1_TOL0,Method 3: CP-SAT alone (exact solver),0.00035512517057171574,0.0007102503411434315
+S1_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.6251453435783962,0.6251453435783962
+S1_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),1.018834270949144e-12,4.075337083796576e-12
+S1_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1.018834270949144e-12,4.075337083796576e-12
+S1_TOL1,Method 3: CP-SAT alone (exact solver),1.5272261246691135e-05,3.054452249338227e-05
+S1_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.8016749651008864,0.8016749651008864
+S2_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),9.938312645846209e-13,3.9753250583384836e-12
+S2_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9.938312645846209e-13,3.9753250583384836e-12
+S2_TOL0,Method 3: CP-SAT alone (exact solver),2.2065829341150886e-05,4.413165868230177e-05
+S2_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.021210585293690788,0.021210585293690788
+S2_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),7.367279769332014e-13,2.9469119077328058e-12
+S2_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),7.367279769332014e-13,2.9469119077328058e-12
+S2_TOL1,Method 3: CP-SAT alone (exact solver),6.660160758341927e-06,1.3320321516683854e-05
+S2_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.05728911146069279,0.05728911146069279
+S3_TOL0,Method 1: Weighted-sum genetic algorithm (base paper),9.565918836262653e-13,3.826367534505061e-12
+S3_TOL0,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),9.565918836262653e-13,3.826367534505061e-12
+S3_TOL0,Method 3: CP-SAT alone (exact solver),0.00011850458233695248,0.00023700916467390496
+S3_TOL0,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.6998466387046678,0.6998466387046678
+S3_TOL1,Method 1: Weighted-sum genetic algorithm (base paper),1.015467304801313e-12,4.061869219205252e-12
+S3_TOL1,Method 2: Non-dominated Sorting Genetic Algorithm III (base paper),1.015467304801313e-12,4.061869219205252e-12
+S3_TOL1,Method 3: CP-SAT alone (exact solver),2.271433115286721e-05,4.542866230573442e-05
+S3_TOL1,"Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning",0.28187709087964086,0.28187709087964086

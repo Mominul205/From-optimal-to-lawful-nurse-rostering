@@ -1,0 +1,38 @@
+{
+  "tolerance_0": {
+    "configurations": 9,
+    "average_ranks": {
+      "Method 1: Weighted-sum genetic algorithm (base paper)": 4.388888888888889,
+      "Method 2: Non-dominated Sorting Genetic Algorithm III (base paper)": 4.611111111111111,
+      "Method 3: CP-SAT alone (exact solver)": 1.6111111111111112,
+      "Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning": 2.111111111111111,
+      "Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning": 2.2777777777777777
+    },
+    "friedman_statistic": 32.05095541401273,
+    "friedman_p": 1.8677673026821969e-06,
+    "holm_p_vs_control": {
+      "Method 2: Non-dominated Sorting Genetic Algorithm III (base paper)": 0.006980474798115921,
+      "Method 1: Weighted-sum genetic algorithm (base paper)": 0.013862051890080052,
+      "Method 3: CP-SAT alone (exact solver)": 0.7421867390453949,
+      "Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning": 0.8230632737581216
+    }
+  },
+  "tolerance_1": {
+    "configurations": 9,
+    "average_ranks": {
+      "Method 1: Weighted-sum genetic algorithm (base paper)": 4.722222222222222,
+      "Method 2: Non-dominated Sorting Genetic Algorithm III (base paper)": 4.277777777777778,
+      "Method 3: CP-SAT alone (exact solver)": 2.0,
+      "Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning": 1.7777777777777777,
+      "Method 5: Our method - Adaptive Large Neighbourhood Search + CP-SAT repair + Q-learning": 2.2222222222222223
+    },
+    "friedman_statistic": 29.51479289940828,
+    "friedman_p": 6.143680417741618e-06,
+    "holm_p_vs_control": {
+      "Method 1: Weighted-sum genetic algorithm (base paper)": 0.0031849206303631306,
+      "Method 2: Non-dominated Sorting Genetic Algorithm III (base paper)": 0.017456619794299133,
+      "Method 4: Adaptive Large Neighbourhood Search + CP-SAT repair, no learning": 1.0,
+      "Method 3: CP-SAT alone (exact solver)": 1.0
+    }
+  }
+}

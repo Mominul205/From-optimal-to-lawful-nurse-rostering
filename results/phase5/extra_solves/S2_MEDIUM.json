@@ -1,0 +1,36 @@
+{
+ "case": "S2_MEDIUM",
+ "scenario": "S2",
+ "level": "MEDIUM",
+ "theta_F2": 60.0,
+ "theta_fraction": "3/5",
+ "previous_F1": 73.60088522588522,
+ "start_file": "S2_TOL0_CPSAT_run01_4.csv",
+ "start_F1": 69.51617826617827,
+ "status": "OPTIMAL",
+ "F1": 70.06959706959707,
+ "F1_bound": 70.06959706959707,
+ "stages": [
+  {
+   "stage": "max F1",
+   "status": "OPTIMAL",
+   "value": 70.06959706959707,
+   "bound": 70.06959706959707
+  },
+  {
+   "stage": "max F2",
+   "status": "FEASIBLE",
+   "value": 60.0,
+   "bound": 66.66666666666667
+  }
+ ],
+ "wall_s": 1941.7,
+ "workers": 1,
+ "time_limit_per_stage": 1800.0,
+ "checker_F1": 70.06959706959707,
+ "checker_F2": 60.0,
+ "checker_F3": 0,
+ "meets_rules": true,
+ "violations": 0,
+ "errors": 0
+}

@@ -1,0 +1,9 @@
+{
+  "name": "L150_S2",
+  "pattern": "S2",
+  "seed": 1502,
+  "tolerance": 1,
+  "min_F2": 54,
+  "max_F3": 0,
+  "initial_F1": 75.03193277310925
+}

@@ -1,0 +1,9 @@
+{
+  "name": "A2",
+  "pattern": "S3",
+  "seed": 404,
+  "tolerance": 1,
+  "min_F2": 56,
+  "max_F3": 0,
+  "initial_F1": 72.37399829497016
+}

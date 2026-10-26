@@ -1,0 +1,3 @@
+stage,status,value,bound
+max F1,FEASIBLE,76.98053580406521,77.1348488113194
+min Z2,OPTIMAL,30.0,30.0

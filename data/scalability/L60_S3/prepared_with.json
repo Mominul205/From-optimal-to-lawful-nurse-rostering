@@ -1,0 +1,6 @@
+{
+  "prep_time": 300,
+  "start_time": 30,
+  "start_rule": "first feasible roster of CP-SAT (all cores of the preparation), F1 not improved",
+  "prepared": "2026-10-10T03:11:24"
+}

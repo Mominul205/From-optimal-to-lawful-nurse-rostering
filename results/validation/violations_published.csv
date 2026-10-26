@@ -1,0 +1,1776 @@
+roster_id,equation,rule,staff_id,detail
+GA_S1_EXTREME_TOL0,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(3),24-hour window,P2,3 windows above 12 h (maximum 24 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P2,1 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL0,(12),maximum continuous duty,P2,1 duties longer than 12 h (longest 24 h); 2 chains of C fully assigned
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P2,share 0.889 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(3),24-hour window,P3,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL0,(12),maximum continuous duty,P3,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL0,(3),24-hour window,P4,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P4,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_EXTREME_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P6,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL0,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P7,share 0.905 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(3),24-hour window,P8,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P8,share 0.944 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(3),24-hour window,P10,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL0,(11),minimum rest,P13,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+GA_S1_EXTREME_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL0,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(3),24-hour window,P16,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL0,(12),maximum continuous duty,P16,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P16,share 0.900 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P17,share 0.579 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(11),minimum rest,P18,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P18,share 0.900 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(3),24-hour window,P19,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(14),days off,P20,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S1_EXTREME_TOL0,(3),24-hour window,P21,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P21,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(14),days off,P21,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P22,share 0.550 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P23,share 0.550 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P24,share 0.889 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(3),24-hour window,P25,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P25,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_EXTREME_TOL0,(14),days off,P25,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S1_EXTREME_TOL0,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P27,share 0.944 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P28,share 0.611 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(19),share of contracted hours,P29,share 0.524 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL0,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL0,(17),unwanted-shift spread,,max - min = 10 > Gamma = 3
+GA_S1_EXTREME_TOL0,(21),night-shift spread,,max - min = 6 > Theta = 2
+GA_S1_EXTREME_TOL0,(27),range threshold (base model),,phi = 0.3187 > 0.05
+GA_S1_EXTREME_TOL1,(11),minimum rest,P1,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_EXTREME_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P2,share 1.000 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(3),24-hour window,P4,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P4,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P4,share 0.895 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(3),24-hour window,P5,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(12),maximum continuous duty,P5,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL1,(3),24-hour window,P6,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(12),maximum continuous duty,P6,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL1,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P7,share 0.619 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL1,(3),24-hour window,P9,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(12),maximum continuous duty,P9,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P9,share 0.900 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(3),24-hour window,P11,3 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL1,(12),maximum continuous duty,P11,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P11,share 0.895 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P12,share 0.600 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL1,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P15,share 0.500 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P16,share 0.600 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(3),24-hour window,P17,2 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(12),maximum continuous duty,P17,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_EXTREME_TOL1,(3),24-hour window,P19,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P19,share 0.619 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(11),minimum rest,P21,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL1,(11),minimum rest,P22,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL1,(11),minimum rest,P23,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_EXTREME_TOL1,(3),24-hour window,P24,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P24,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+GA_S1_EXTREME_TOL1,(14),days off,P24,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P24,share 0.889 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL1,(14),days off,P25,4 seven-day windows with more than 6 working days (longest run 10 days)
+GA_S1_EXTREME_TOL1,(3),24-hour window,P26,1 windows above 12 h (maximum 18 h)
+GA_S1_EXTREME_TOL1,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_EXTREME_TOL1,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_EXTREME_TOL1,(19),share of contracted hours,P29,share 0.571 outside 0.743 +/- 0.1
+GA_S1_EXTREME_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_EXTREME_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S1_EXTREME_TOL1,(21),night-shift spread,,max - min = 6 > Theta = 2
+GA_S1_EXTREME_TOL1,(27),range threshold (base model),,phi = 0.2857 > 0.05
+GA_S1_HARD_TOL0,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P2,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_HARD_TOL0,(19),share of contracted hours,P2,share 0.889 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P5,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P6,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P9,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P11,3 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_HARD_TOL0,(12),maximum continuous duty,P11,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL0,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL0,(19),share of contracted hours,P14,share 0.889 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(3),24-hour window,P15,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(12),maximum continuous duty,P15,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL0,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P17,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_HARD_TOL0,(3),24-hour window,P18,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL0,(11),minimum rest,P18,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(14),days off,P19,6 seven-day windows with more than 6 working days (longest run 12 days)
+GA_S1_HARD_TOL0,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(19),share of contracted hours,P22,share 0.550 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(19),share of contracted hours,P24,share 0.889 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_HARD_TOL0,(14),days off,P25,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S1_HARD_TOL0,(3),24-hour window,P26,3 windows above 12 h (maximum 24 h)
+GA_S1_HARD_TOL0,(12),maximum continuous duty,P26,1 duties longer than 12 h (longest 24 h); 2 chains of C fully assigned
+GA_S1_HARD_TOL0,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_HARD_TOL0,(19),share of contracted hours,P28,share 0.889 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(19),share of contracted hours,P29,share 0.524 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(11),minimum rest,P30,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL0,(19),share of contracted hours,P30,share 0.850 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL0,(17),unwanted-shift spread,,max - min = 5 > Gamma = 3
+GA_S1_HARD_TOL0,(21),night-shift spread,,max - min = 5 > Theta = 2
+GA_S1_HARD_TOL1,(19),share of contracted hours,P1,share 0.600 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P2,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL1,(19),share of contracted hours,P2,share 0.944 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(3),24-hour window,P3,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(12),maximum continuous duty,P3,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P5,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(12),maximum continuous duty,P5,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL1,(19),share of contracted hours,P5,share 0.857 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_HARD_TOL1,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P11,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_HARD_TOL1,(19),share of contracted hours,P11,share 0.895 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(3),24-hour window,P12,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P13,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(19),share of contracted hours,P13,share 0.889 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL1,(19),share of contracted hours,P15,share 0.550 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P17,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P17,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P19,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(12),maximum continuous duty,P19,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL1,(11),minimum rest,P21,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(19),share of contracted hours,P23,share 0.550 outside 0.743 +/- 0.1
+GA_S1_HARD_TOL1,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(14),days off,P25,4 seven-day windows with more than 6 working days (longest run 10 days)
+GA_S1_HARD_TOL1,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_HARD_TOL1,(11),minimum rest,P28,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_HARD_TOL1,(3),24-hour window,P30,2 windows above 12 h (maximum 18 h)
+GA_S1_HARD_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_HARD_TOL1,(12),maximum continuous duty,P30,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_HARD_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S1_HARD_TOL1,(21),night-shift spread,,max - min = 8 > Theta = 2
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P2,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P3,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P12,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P12,share 0.900 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(12),maximum continuous duty,P13,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P14,3 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P17,share 0.632 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P18,share 0.850 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P19,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(12),maximum continuous duty,P19,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P20,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P20,share 0.944 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P22,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(12),maximum continuous duty,P22,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P23,share 0.600 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P24,share 0.611 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P25,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_MEDIUM_TOL0,(14),days off,P25,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL0,(19),share of contracted hours,P26,share 0.550 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P27,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL0,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL0,(14),days off,P29,3 seven-day windows with more than 6 working days (longest run 9 days)
+GA_S1_MEDIUM_TOL0,(3),24-hour window,P30,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL0,(12),maximum continuous duty,P30,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S1_MEDIUM_TOL0,(21),night-shift spread,,max - min = 6 > Theta = 2
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P2,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P2,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P3,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_MEDIUM_TOL1,(19),share of contracted hours,P3,share 0.947 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P4,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P5,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P5,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P12,3 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P12,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P13,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(19),share of contracted hours,P16,share 0.550 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P17,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P18,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P19,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P19,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(19),share of contracted hours,P21,share 0.619 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P24,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P24,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P25,3 windows above 12 h (maximum 24 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P25,1 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P25,1 duties longer than 12 h (longest 24 h); 2 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(14),days off,P25,4 seven-day windows with more than 6 working days (longest run 10 days)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P27,1 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+GA_S1_MEDIUM_TOL1,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+GA_S1_MEDIUM_TOL1,(3),24-hour window,P30,2 windows above 12 h (maximum 18 h)
+GA_S1_MEDIUM_TOL1,(12),maximum continuous duty,P30,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+GA_S1_MEDIUM_TOL1,(19),share of contracted hours,P30,share 0.850 outside 0.743 +/- 0.1
+GA_S1_MEDIUM_TOL1,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+GA_S1_MEDIUM_TOL1,(21),night-shift spread,,max - min = 5 > Theta = 2
+GA_S2_EXTREME_TOL0,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P1,share 0.442 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P5,share 0.468 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL0,(14),days off,P6,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_EXTREME_TOL0,(3),24-hour window,P7,1 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P7,4 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P7,share 0.460 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P9,share 0.467 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P10,4 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P10,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_EXTREME_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P12,4 windows above 12 h (maximum 17 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(12),maximum continuous duty,P12,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_EXTREME_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P14,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P14,share 0.870 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P15,1 windows above 12 h (maximum 13 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P15,share 0.458 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P16,share 0.408 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P17,2 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P17,share 0.456 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P18,2 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P18,share 0.850 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P19,3 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P19,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P20,1 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P20,6 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P20,share 0.796 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P21,4 windows above 12 h (maximum 19 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(12),maximum continuous duty,P21,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_EXTREME_TOL0,(11),minimum rest,P22,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P23,1 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P24,2 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P24,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P25,3 windows above 12 h (maximum 17 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P26,2 windows above 12 h (maximum 13 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL0,(3),24-hour window,P27,3 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL0,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P27,share 0.759 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(11),minimum rest,P28,5 rest periods shorter than 11 h (shortest 7 h); 5 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P28,share 0.778 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P29,1 windows above 12 h (maximum 17 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL0,(14),days off,P29,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P29,share 0.738 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(3),24-hour window,P30,2 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL0,(11),minimum rest,P30,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL0,(19),share of contracted hours,P30,share 0.883 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S2_EXTREME_TOL0,(21),night-shift spread,,max - min = 7 > Theta = 2
+GA_S2_EXTREME_TOL0,(27),range threshold (base model),,phi = 0.3571 > 0.05
+GA_S2_EXTREME_TOL1,(11),minimum rest,P1,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S2_EXTREME_TOL1,(14),days off,P1,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_EXTREME_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 13 h)
+GA_S2_EXTREME_TOL1,(14),days off,P3,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P5,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P6,1 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P8,1 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P8,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(14),days off,P9,3 seven-day windows with more than 6 working days (longest run 9 days)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P10,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P11,2 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P12,1 windows above 12 h (maximum 13 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P12,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL1,(14),days off,P12,4 seven-day windows with more than 6 working days (longest run 10 days)
+GA_S2_EXTREME_TOL1,(3),24-hour window,P13,3 windows above 12 h (maximum 16 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P13,share 0.833 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(11),minimum rest,P14,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P16,1 windows above 12 h (maximum 17 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P16,4 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P17,share 0.509 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(11),minimum rest,P18,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P18,share 0.467 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(3),24-hour window,P19,5 windows above 12 h (maximum 19 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_EXTREME_TOL1,(12),maximum continuous duty,P19,1 duties longer than 12 h (longest 19 h); 1 chains of C fully assigned
+GA_S2_EXTREME_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P20,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P21,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P22,1 windows above 12 h (maximum 13 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P23,share 0.375 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(11),minimum rest,P24,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P25,3 windows above 12 h (maximum 15 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P25,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_EXTREME_TOL1,(3),24-hour window,P26,2 windows above 12 h (maximum 13 h)
+GA_S2_EXTREME_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P26,share 0.450 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P27,share 0.759 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+GA_S2_EXTREME_TOL1,(14),days off,P30,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_EXTREME_TOL1,(19),share of contracted hours,P30,share 0.817 outside 0.618 +/- 0.1
+GA_S2_EXTREME_TOL1,(17),unwanted-shift spread,,max - min = 8 > Gamma = 3
+GA_S2_EXTREME_TOL1,(21),night-shift spread,,max - min = 8 > Theta = 2
+GA_S2_EXTREME_TOL1,(27),range threshold (base model),,phi = 0.3397 > 0.05
+GA_S2_HARD_TOL0,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P1,share 0.442 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P5,share 0.468 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_HARD_TOL0,(14),days off,P6,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_HARD_TOL0,(3),24-hour window,P7,1 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P7,4 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P7,share 0.460 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P9,share 0.467 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P10,4 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P10,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_HARD_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P12,4 windows above 12 h (maximum 17 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(12),maximum continuous duty,P12,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_HARD_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P14,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P14,share 0.870 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P15,1 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P15,share 0.458 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(19),share of contracted hours,P16,share 0.408 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P17,2 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P17,share 0.456 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P18,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P18,share 0.850 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P19,3 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P19,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P20,1 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P20,6 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P20,share 0.796 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P21,4 windows above 12 h (maximum 19 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(12),maximum continuous duty,P21,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_HARD_TOL0,(11),minimum rest,P22,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P23,1 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P24,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P24,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P25,3 windows above 12 h (maximum 17 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P26,2 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_HARD_TOL0,(3),24-hour window,P27,3 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL0,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_HARD_TOL0,(19),share of contracted hours,P27,share 0.759 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(11),minimum rest,P28,5 rest periods shorter than 11 h (shortest 7 h); 5 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P28,share 0.778 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P29,1 windows above 12 h (maximum 17 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+GA_S2_HARD_TOL0,(14),days off,P29,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_HARD_TOL0,(19),share of contracted hours,P29,share 0.738 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(3),24-hour window,P30,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL0,(11),minimum rest,P30,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S2_HARD_TOL0,(19),share of contracted hours,P30,share 0.883 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S2_HARD_TOL0,(21),night-shift spread,,max - min = 7 > Theta = 2
+GA_S2_HARD_TOL0,(27),range threshold (base model),,phi = 0.3571 > 0.15
+GA_S2_HARD_TOL1,(11),minimum rest,P1,3 rest periods shorter than 11 h (shortest 7 h); 4 slot pairs in P
+GA_S2_HARD_TOL1,(14),days off,P1,3 seven-day windows with more than 6 working days (longest run 9 days)
+GA_S2_HARD_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL1,(14),days off,P2,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_HARD_TOL1,(19),share of contracted hours,P2,share 0.731 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(3),24-hour window,P3,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 5 h); 1 slot pairs in P
+GA_S2_HARD_TOL1,(14),days off,P3,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_HARD_TOL1,(3),24-hour window,P4,2 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_HARD_TOL1,(14),days off,P4,4 seven-day windows with more than 6 working days (longest run 10 days)
+GA_S2_HARD_TOL1,(11),minimum rest,P5,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+GA_S2_HARD_TOL1,(3),24-hour window,P6,1 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_HARD_TOL1,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P7,share 0.421 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(3),24-hour window,P8,1 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P8,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_HARD_TOL1,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_HARD_TOL1,(3),24-hour window,P10,1 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_HARD_TOL1,(14),days off,P10,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_HARD_TOL1,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P11,share 0.728 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(3),24-hour window,P12,1 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P12,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_HARD_TOL1,(14),days off,P12,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_HARD_TOL1,(3),24-hour window,P13,3 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P13,share 0.759 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(3),24-hour window,P14,1 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 5 h); 4 slot pairs in P
+GA_S2_HARD_TOL1,(3),24-hour window,P15,1 windows above 12 h (maximum 13 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+GA_S2_HARD_TOL1,(3),24-hour window,P16,4 windows above 12 h (maximum 17 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_HARD_TOL1,(12),maximum continuous duty,P16,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_HARD_TOL1,(3),24-hour window,P17,1 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P17,5 rest periods shorter than 11 h (shortest 7 h); 5 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P17,share 0.737 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(11),minimum rest,P18,3 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P18,share 0.800 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(3),24-hour window,P19,3 windows above 12 h (maximum 19 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S2_HARD_TOL1,(12),maximum continuous duty,P19,1 duties longer than 12 h (longest 19 h); 1 chains of C fully assigned
+GA_S2_HARD_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 15 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P20,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P20,share 0.731 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_HARD_TOL1,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_HARD_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P23,share 0.417 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(3),24-hour window,P24,2 windows above 12 h (maximum 16 h)
+GA_S2_HARD_TOL1,(11),minimum rest,P24,6 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P25,share 0.476 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(19),share of contracted hours,P26,share 0.442 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(19),share of contracted hours,P27,share 0.509 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_HARD_TOL1,(19),share of contracted hours,P30,share 0.758 outside 0.618 +/- 0.1
+GA_S2_HARD_TOL1,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+GA_S2_HARD_TOL1,(21),night-shift spread,,max - min = 7 > Theta = 2
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 9 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P1,share 0.500 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P2,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P2,share 0.796 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P3,share 0.763 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P7,4 windows above 12 h (maximum 16 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P7,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P7,share 0.468 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P10,1 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P10,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(14),days off,P11,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P12,4 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(12),maximum continuous duty,P12,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P12,share 0.733 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 16 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P14,share 0.759 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P15,1 windows above 12 h (maximum 13 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P15,share 0.483 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P17,2 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P17,share 0.474 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P18,2 windows above 12 h (maximum 16 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P19,share 0.468 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P20,1 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P20,6 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P20,share 0.769 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P21,1 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P23,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P23,share 0.458 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P24,2 windows above 12 h (maximum 17 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P24,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P25,3 windows above 12 h (maximum 17 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P25,share 0.492 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P26,2 windows above 12 h (maximum 13 h)
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL0,(3),24-hour window,P27,3 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL0,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P27,share 0.759 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL0,(11),minimum rest,P30,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL0,(19),share of contracted hours,P30,share 0.775 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL0,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+GA_S2_MEDIUM_TOL0,(21),night-shift spread,,max - min = 8 > Theta = 2
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P1,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL1,(14),days off,P1,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 17 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P2,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL1,(14),days off,P2,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(14),days off,P4,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P6,1 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 9 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(19),share of contracted hours,P6,share 0.783 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P7,4 windows above 12 h (maximum 16 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P7,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P9,2 windows above 12 h (maximum 13 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P11,4 windows above 12 h (maximum 16 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P12,7 rest periods shorter than 11 h (shortest 3 h); 7 slot pairs in P
+GA_S2_MEDIUM_TOL1,(14),days off,P12,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P13,5 windows above 12 h (maximum 17 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P13,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL1,(19),share of contracted hours,P13,share 0.796 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P14,3 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P15,1 windows above 12 h (maximum 13 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(19),share of contracted hours,P15,share 0.508 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P16,1 windows above 12 h (maximum 17 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P16,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P17,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(19),share of contracted hours,P17,share 0.491 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P19,4 windows above 12 h (maximum 19 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL1,(12),maximum continuous duty,P19,1 duties longer than 12 h (longest 19 h); 1 chains of C fully assigned
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P21,4 windows above 12 h (maximum 19 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P21,1 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(12),maximum continuous duty,P21,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P22,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P24,1 windows above 12 h (maximum 13 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P24,5 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL1,(19),share of contracted hours,P26,share 0.483 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL1,(3),24-hour window,P27,3 windows above 12 h (maximum 15 h)
+GA_S2_MEDIUM_TOL1,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+GA_S2_MEDIUM_TOL1,(19),share of contracted hours,P27,share 0.824 outside 0.618 +/- 0.1
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+GA_S2_MEDIUM_TOL1,(14),days off,P29,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S2_MEDIUM_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+GA_S2_MEDIUM_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S2_MEDIUM_TOL1,(21),night-shift spread,,max - min = 7 > Theta = 2
+GA_S3_EXTREME_TOL0,(11),minimum rest,P2,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P3,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P9,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL0,(19),share of contracted hours,P9,share 0.600 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL0,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL0,(3),24-hour window,P13,1 windows above 12 h (maximum 16 h)
+GA_S3_EXTREME_TOL0,(11),minimum rest,P13,4 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P14,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL0,(19),share of contracted hours,P15,share 0.367 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(19),share of contracted hours,P16,share 0.367 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL0,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P18,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P21,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P22,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL0,(19),share of contracted hours,P22,share 0.600 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL0,(11),minimum rest,P23,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(19),share of contracted hours,P23,share 0.600 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL0,(11),minimum rest,P24,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P27,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P28,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL0,(3),24-hour window,P30,2 windows above 12 h (maximum 16 h)
+GA_S3_EXTREME_TOL0,(11),minimum rest,P30,3 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S3_EXTREME_TOL0,(21),night-shift spread,,max - min = 9 > Theta = 2
+GA_S3_EXTREME_TOL0,(27),range threshold (base model),,phi = 0.2792 > 0.05
+GA_S3_EXTREME_TOL1,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P4,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P5,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P6,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P9,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P11,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL1,(19),share of contracted hours,P11,share 0.632 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL1,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL1,(3),24-hour window,P13,4 windows above 12 h (maximum 16 h)
+GA_S3_EXTREME_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P14,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P15,7 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+GA_S3_EXTREME_TOL1,(19),share of contracted hours,P15,share 0.633 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL1,(11),minimum rest,P17,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL1,(19),share of contracted hours,P17,share 0.632 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL1,(11),minimum rest,P18,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL1,(19),share of contracted hours,P20,share 0.630 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL1,(11),minimum rest,P21,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P22,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL1,(19),share of contracted hours,P23,share 0.633 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL1,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P25,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P27,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_EXTREME_TOL1,(11),minimum rest,P30,8 rest periods shorter than 11 h (shortest 4 h); 8 slot pairs in P
+GA_S3_EXTREME_TOL1,(19),share of contracted hours,P30,share 0.600 outside 0.493 +/- 0.1
+GA_S3_EXTREME_TOL1,(17),unwanted-shift spread,,max - min = 8 > Gamma = 3
+GA_S3_EXTREME_TOL1,(21),night-shift spread,,max - min = 9 > Theta = 2
+GA_S3_HARD_TOL0,(11),minimum rest,P1,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_HARD_TOL0,(14),days off,P1,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S3_HARD_TOL0,(19),share of contracted hours,P1,share 0.667 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P2,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(14),days off,P3,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_HARD_TOL0,(19),share of contracted hours,P3,share 0.596 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P5,share 0.349 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P10,share 0.630 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P11,share 0.386 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(3),24-hour window,P13,1 windows above 12 h (maximum 16 h)
+GA_S3_HARD_TOL0,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P13,share 0.630 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P14,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL0,(14),days off,P14,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_HARD_TOL0,(11),minimum rest,P15,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P17,share 0.386 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P18,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P19,share 0.381 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P21,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P23,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_HARD_TOL0,(19),share of contracted hours,P24,share 0.630 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL0,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P27,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL0,(11),minimum rest,P30,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL0,(17),unwanted-shift spread,,max - min = 9 > Gamma = 3
+GA_S3_HARD_TOL0,(21),night-shift spread,,max - min = 10 > Theta = 2
+GA_S3_HARD_TOL1,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(19),share of contracted hours,P2,share 0.630 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(19),share of contracted hours,P3,share 0.386 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P4,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL1,(14),days off,P5,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_HARD_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P7,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P9,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(19),share of contracted hours,P10,share 0.667 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(14),days off,P11,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_HARD_TOL1,(19),share of contracted hours,P11,share 0.596 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(19),share of contracted hours,P12,share 0.367 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P15,3 rest periods shorter than 11 h (shortest 8 h); 4 slot pairs in P
+GA_S3_HARD_TOL1,(14),days off,P15,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S3_HARD_TOL1,(11),minimum rest,P16,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(19),share of contracted hours,P16,share 0.633 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P17,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL1,(14),days off,P18,2 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_HARD_TOL1,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P21,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL1,(19),share of contracted hours,P25,share 0.381 outside 0.493 +/- 0.1
+GA_S3_HARD_TOL1,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(3),24-hour window,P27,3 windows above 12 h (maximum 16 h)
+GA_S3_HARD_TOL1,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_HARD_TOL1,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 16 h); 1 chains of C fully assigned
+GA_S3_HARD_TOL1,(3),24-hour window,P28,2 windows above 12 h (maximum 16 h)
+GA_S3_HARD_TOL1,(11),minimum rest,P28,1 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_HARD_TOL1,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_HARD_TOL1,(14),days off,P29,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_HARD_TOL1,(11),minimum rest,P30,6 rest periods shorter than 11 h (shortest 4 h); 8 slot pairs in P
+GA_S3_HARD_TOL1,(17),unwanted-shift spread,,max - min = 9 > Gamma = 3
+GA_S3_HARD_TOL1,(21),night-shift spread,,max - min = 9 > Theta = 2
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P1,6 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P2,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P3,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P5,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P8,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_MEDIUM_TOL0,(19),share of contracted hours,P8,share 0.704 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P9,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P12,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_MEDIUM_TOL0,(19),share of contracted hours,P13,share 0.667 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P14,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL0,(14),days off,P15,2 seven-day windows with more than 6 working days (longest run 8 days)
+GA_S3_MEDIUM_TOL0,(19),share of contracted hours,P15,share 0.367 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P17,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P21,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P23,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P27,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P28,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_MEDIUM_TOL0,(11),minimum rest,P30,6 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_MEDIUM_TOL0,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+GA_S3_MEDIUM_TOL0,(21),night-shift spread,,max - min = 8 > Theta = 2
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P2,6 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+GA_S3_MEDIUM_TOL1,(19),share of contracted hours,P2,share 0.704 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P3,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(14),days off,P4,1 seven-day windows with more than 6 working days (longest run 7 days)
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P6,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P12,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P14,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P15,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+GA_S3_MEDIUM_TOL1,(19),share of contracted hours,P16,share 0.600 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(19),share of contracted hours,P21,share 0.381 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+GA_S3_MEDIUM_TOL1,(19),share of contracted hours,P25,share 0.381 outside 0.493 +/- 0.1
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P27,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P29,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+GA_S3_MEDIUM_TOL1,(11),minimum rest,P30,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+GA_S3_MEDIUM_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+GA_S3_MEDIUM_TOL1,(21),night-shift spread,,max - min = 7 > Theta = 2
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P2,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P4,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(12),maximum continuous duty,P4,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P4,share 0.947 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P8,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P8,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P10,share 0.611 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P11,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P14,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P17,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P18,share 0.500 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P21,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P23,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P24,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P24,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P25,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P25,share 0.571 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P26,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(12),maximum continuous duty,P26,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P28,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(12),maximum continuous duty,P28,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P29,share 0.524 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(3),24-hour window,P30,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL0,(11),minimum rest,P30,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL0,(19),share of contracted hours,P30,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S1_EXTREME_TOL0,(21),night-shift spread,,max - min = 7 > Theta = 2
+NSGA3_S1_EXTREME_TOL0,(27),range threshold (base model),,phi = 0.0769 > 0.05
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P2,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P6,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P8,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(12),maximum continuous duty,P8,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P8,share 0.944 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P16,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P17,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P19,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P19,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P20,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P22,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(12),maximum continuous duty,P22,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P22,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P23,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(14),days off,P23,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(14),days off,P25,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P26,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P26,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P27,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P28,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P29,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(12),maximum continuous duty,P29,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL1,(19),share of contracted hours,P29,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_EXTREME_TOL1,(3),24-hour window,P30,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_EXTREME_TOL1,(11),minimum rest,P30,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_EXTREME_TOL1,(12),maximum continuous duty,P30,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_EXTREME_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S1_EXTREME_TOL1,(21),night-shift spread,,max - min = 6 > Theta = 2
+NSGA3_S1_EXTREME_TOL1,(27),range threshold (base model),,phi = 0.1333 > 0.05
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P1,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P2,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P4,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P4,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P5,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P5,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P6,share 0.600 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P8,share 1.000 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P10,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P11,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P13,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P13,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P16,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P17,share 0.895 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P18,share 0.600 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P19,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P20,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL0,(14),days off,P20,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P22,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P22,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P22,share 0.600 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P23,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL0,(14),days off,P23,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P24,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P24,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P25,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P25,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(14),days off,P25,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P26,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P27,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P27,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P28,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL0,(19),share of contracted hours,P28,share 0.944 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL0,(3),24-hour window,P30,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL0,(12),maximum continuous duty,P30,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S1_HARD_TOL0,(21),night-shift spread,,max - min = 7 > Theta = 2
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P2,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P2,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P7,share 0.857 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P8,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P11,share 0.895 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P12,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P13,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P14,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P14,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL1,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P14,share 0.944 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P16,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P17,share 0.526 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P19,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P19,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P19,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P21,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P23,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P24,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P25,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL1,(12),maximum continuous duty,P25,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_HARD_TOL1,(14),days off,P25,4 seven-day windows with more than 6 working days (longest run 10 days)
+NSGA3_S1_HARD_TOL1,(3),24-hour window,P26,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P26,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_HARD_TOL1,(19),share of contracted hours,P29,share 0.571 outside 0.743 +/- 0.1
+NSGA3_S1_HARD_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_HARD_TOL1,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+NSGA3_S1_HARD_TOL1,(21),night-shift spread,,max - min = 6 > Theta = 2
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P1,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P1,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P2,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P6,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P8,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P8,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P10,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P11,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(12),maximum continuous duty,P11,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P11,share 0.895 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P14,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P17,share 0.632 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P18,share 0.550 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P19,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P24,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(14),days off,P25,4 seven-day windows with more than 6 working days (longest run 10 days)
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P25,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(3),24-hour window,P26,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(12),maximum continuous duty,P26,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P28,share 0.611 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P29,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(11),minimum rest,P30,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL0,(19),share of contracted hours,P30,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S1_MEDIUM_TOL0,(21),night-shift spread,,max - min = 6 > Theta = 2
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P3,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(12),maximum continuous duty,P3,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P4,share 0.632 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P7,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P8,3 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(12),maximum continuous duty,P8,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL1,(14),days off,P8,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P8,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P9,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P9,share 0.850 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P11,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P11,share 0.895 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P13,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P13,4 rest periods shorter than 11 h (shortest 6 h); 4 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P13,share 0.944 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P14,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P14,2 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(12),maximum continuous duty,P14,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P16,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P17,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P17,share 0.474 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P18,share 0.600 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P19,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P19,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(12),maximum continuous duty,P20,1 duties longer than 12 h (longest 18 h); 1 chains of C fully assigned
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P20,share 0.944 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 6 h); 1 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 6 h); 2 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(14),days off,P25,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P25,share 0.619 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(3),24-hour window,P26,1 windows above 12 h (maximum 18 h)
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P26,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P27,share 0.611 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P28,5 rest periods shorter than 11 h (shortest 6 h); 5 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(19),share of contracted hours,P28,share 0.889 outside 0.743 +/- 0.1
+NSGA3_S1_MEDIUM_TOL1,(11),minimum rest,P30,3 rest periods shorter than 11 h (shortest 6 h); 3 slot pairs in P
+NSGA3_S1_MEDIUM_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S1_MEDIUM_TOL1,(21),night-shift spread,,max - min = 5 > Theta = 2
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P1,1 windows above 12 h (maximum 15 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P1,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P1,share 0.517 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P2,share 0.722 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P6,3 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P6,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P7,4 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P10,share 0.454 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P11,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P12,2 windows above 12 h (maximum 15 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P12,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P12,share 0.867 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P14,share 0.426 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P15,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P16,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P16,share 0.517 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P17,3 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P17,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P18,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P18,share 0.425 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P19,4 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P19,share 0.746 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P20,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P20,share 0.750 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P21,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P22,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P23,2 windows above 12 h (maximum 17 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P23,4 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(14),days off,P23,5 seven-day windows with more than 6 working days (longest run 11 days)
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P24,4 windows above 12 h (maximum 15 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P24,6 rest periods shorter than 11 h (shortest 3 h); 7 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(12),maximum continuous duty,P24,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P25,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P26,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(3),24-hour window,P28,1 windows above 12 h (maximum 17 h)
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(19),share of contracted hours,P29,share 0.492 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL0,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL0,(17),unwanted-shift spread,,max - min = 8 > Gamma = 3
+NSGA3_S2_EXTREME_TOL0,(21),night-shift spread,,max - min = 8 > Theta = 2
+NSGA3_S2_EXTREME_TOL0,(27),range threshold (base model),,phi = 0.0893 > 0.05
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P1,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P2,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P4,1 windows above 12 h (maximum 17 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P5,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P5,share 0.381 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P6,4 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P6,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P7,3 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P7,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P7,share 0.460 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P9,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P9,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P10,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P11,4 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P12,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P14,3 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P18,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(12),maximum continuous duty,P18,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P18,share 0.725 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P19,share 0.484 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P21,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P22,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 5 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P22,share 0.467 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P23,1 windows above 12 h (maximum 17 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P24,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P24,5 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P26,1 windows above 12 h (maximum 15 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P26,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(14),days off,P26,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P26,share 0.833 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P28,4 rest periods shorter than 11 h (shortest 7 h); 4 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(14),days off,P28,4 seven-day windows with more than 6 working days (longest run 10 days)
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P28,share 0.778 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(3),24-hour window,P29,1 windows above 12 h (maximum 17 h)
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P29,share 0.484 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_EXTREME_TOL1,(19),share of contracted hours,P30,share 0.817 outside 0.618 +/- 0.1
+NSGA3_S2_EXTREME_TOL1,(17),unwanted-shift spread,,max - min = 10 > Gamma = 3
+NSGA3_S2_EXTREME_TOL1,(21),night-shift spread,,max - min = 8 > Theta = 2
+NSGA3_S2_EXTREME_TOL1,(27),range threshold (base model),,phi = 0.1071 > 0.05
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P1,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P2,1 rest periods shorter than 11 h (shortest 9 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P3,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P4,share 0.474 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P5,2 windows above 12 h (maximum 17 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P5,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P7,3 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P7,share 0.476 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P8,share 0.454 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P9,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P10,5 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P11,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P11,2 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P12,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P12,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P14,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 5 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P15,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P16,share 0.467 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P17,2 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P17,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P19,share 0.492 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P20,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P20,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P20,share 0.769 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P21,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL0,(12),maximum continuous duty,P21,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_HARD_TOL0,(14),days off,P21,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P24,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P28,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL0,(11),minimum rest,P28,4 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+NSGA3_S2_HARD_TOL0,(19),share of contracted hours,P28,share 0.806 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL0,(3),24-hour window,P29,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL0,(12),maximum continuous duty,P29,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_HARD_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S2_HARD_TOL0,(21),night-shift spread,,max - min = 5 > Theta = 2
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P1,4 rest periods shorter than 11 h (shortest 5 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL1,(14),days off,P1,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P1,share 0.775 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P4,1 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P6,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(14),days off,P6,3 seven-day windows with more than 6 working days (longest run 9 days)
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P6,share 0.725 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P7,share 0.397 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P9,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL1,(14),days off,P9,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P10,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P10,share 0.398 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P11,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P12,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P12,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P13,4 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P13,share 0.806 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P14,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P15,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(12),maximum continuous duty,P15,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P16,5 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P17,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P18,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P18,1 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P19,2 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P19,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P19,share 0.476 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P20,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P20,3 rest periods shorter than 11 h (shortest 3 h); 4 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P20,share 0.815 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P23,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P23,share 0.508 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P24,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P24,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P24,share 0.741 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P26,1 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P27,share 0.769 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P28,1 windows above 12 h (maximum 17 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 7 h); 3 slot pairs in P
+NSGA3_S2_HARD_TOL1,(19),share of contracted hours,P28,share 0.741 outside 0.618 +/- 0.1
+NSGA3_S2_HARD_TOL1,(3),24-hour window,P29,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+NSGA3_S2_HARD_TOL1,(12),maximum continuous duty,P29,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_HARD_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 5 h); 1 slot pairs in P
+NSGA3_S2_HARD_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S2_HARD_TOL1,(21),night-shift spread,,max - min = 7 > Theta = 2
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P1,1 windows above 12 h (maximum 15 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P1,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P1,share 0.508 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P2,share 0.824 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P3,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P3,share 0.833 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P4,1 rest periods shorter than 11 h (shortest 3 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(14),days off,P4,5 seven-day windows with more than 6 working days (longest run 11 days)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P7,3 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P7,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P8,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P9,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P10,2 windows above 12 h (maximum 20 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P10,3 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(14),days off,P12,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P13,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P14,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P14,share 0.509 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P16,share 0.475 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P17,share 0.491 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P18,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P19,3 windows above 12 h (maximum 15 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P19,5 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P20,2 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P20,4 rest periods shorter than 11 h (shortest 5 h); 4 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P20,share 0.907 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P21,share 0.516 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P22,share 0.458 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P23,3 rest periods shorter than 11 h (shortest 7 h); 4 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P24,5 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P24,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(12),maximum continuous duty,P24,1 duties longer than 12 h (longest 15 h); 1 chains of C fully assigned
+NSGA3_S2_MEDIUM_TOL0,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P25,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P25,share 0.460 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 9 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P27,share 0.759 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 7 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(14),days off,P28,3 seven-day windows with more than 6 working days (longest run 9 days)
+NSGA3_S2_MEDIUM_TOL0,(11),minimum rest,P30,2 rest periods shorter than 11 h (shortest 5 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL0,(19),share of contracted hours,P30,share 0.858 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S2_MEDIUM_TOL0,(21),night-shift spread,,max - min = 9 > Theta = 2
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P1,4 rest periods shorter than 11 h (shortest 7 h); 4 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(14),days off,P1,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P5,share 0.349 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P6,3 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 3 h); 3 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P7,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P7,share 0.508 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P9,3 rest periods shorter than 11 h (shortest 5 h); 3 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P10,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P11,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P12,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 3 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P13,5 windows above 12 h (maximum 17 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P13,4 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P14,3 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P14,7 rest periods shorter than 11 h (shortest 3 h); 7 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P14,share 0.722 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P15,1 rest periods shorter than 11 h (shortest 5 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P15,share 0.475 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P16,share 0.483 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P17,1 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 5 h); 4 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P18,share 0.792 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P19,share 0.500 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P20,4 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P20,3 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P22,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 7 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P22,share 0.508 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P23,2 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P23,5 rest periods shorter than 11 h (shortest 3 h); 5 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P24,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P24,6 rest periods shorter than 11 h (shortest 3 h); 6 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P25,1 windows above 12 h (maximum 13 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P27,share 0.722 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(3),24-hour window,P28,1 windows above 12 h (maximum 16 h)
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P28,8 rest periods shorter than 11 h (shortest 4 h); 8 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P28,share 0.852 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(19),share of contracted hours,P29,share 0.857 outside 0.618 +/- 0.1
+NSGA3_S2_MEDIUM_TOL1,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S2_MEDIUM_TOL1,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+NSGA3_S2_MEDIUM_TOL1,(21),night-shift spread,,max - min = 7 > Theta = 2
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P4,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(14),days off,P6,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(19),share of contracted hours,P8,share 0.370 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P9,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(14),days off,P11,4 seven-day windows with more than 6 working days (longest run 10 days)
+NSGA3_S3_EXTREME_TOL0,(19),share of contracted hours,P11,share 0.596 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(3),24-hour window,P13,3 windows above 12 h (maximum 16 h)
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P13,2 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P15,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(19),share of contracted hours,P16,share 0.333 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P17,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(19),share of contracted hours,P17,share 0.632 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P20,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(19),share of contracted hours,P20,share 0.630 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P21,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P24,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P25,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P27,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(11),minimum rest,P30,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL0,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S3_EXTREME_TOL0,(21),night-shift spread,,max - min = 11 > Theta = 2
+NSGA3_S3_EXTREME_TOL0,(27),range threshold (base model),,phi = 0.0667 > 0.05
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(19),share of contracted hours,P3,share 0.596 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P4,8 rest periods shorter than 11 h (shortest 4 h); 8 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P5,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(19),share of contracted hours,P5,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P7,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P9,7 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(14),days off,P11,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P13,7 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(14),days off,P13,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P14,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(14),days off,P14,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S3_EXTREME_TOL1,(19),share of contracted hours,P14,share 0.630 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P15,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P17,6 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P18,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P21,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P23,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(19),share of contracted hours,P23,share 0.633 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P24,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(19),share of contracted hours,P25,share 0.349 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(14),days off,P26,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P28,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P29,6 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(14),days off,P29,3 seven-day windows with more than 6 working days (longest run 9 days)
+NSGA3_S3_EXTREME_TOL1,(19),share of contracted hours,P29,share 0.603 outside 0.493 +/- 0.1
+NSGA3_S3_EXTREME_TOL1,(11),minimum rest,P30,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_EXTREME_TOL1,(17),unwanted-shift spread,,max - min = 7 > Gamma = 3
+NSGA3_S3_EXTREME_TOL1,(21),night-shift spread,,max - min = 10 > Theta = 2
+NSGA3_S3_EXTREME_TOL1,(27),range threshold (base model),,phi = 0.1026 > 0.05
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P4,6 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_HARD_TOL0,(19),share of contracted hours,P4,share 0.596 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P5,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P6,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL0,(14),days off,P6,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S3_HARD_TOL0,(19),share of contracted hours,P6,share 0.633 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL0,(19),share of contracted hours,P7,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL0,(3),24-hour window,P11,2 windows above 12 h (maximum 16 h)
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL0,(14),days off,P11,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_HARD_TOL0,(19),share of contracted hours,P11,share 0.596 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(3),24-hour window,P13,1 windows above 12 h (maximum 16 h)
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P15,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P16,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P17,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P18,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P20,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P24,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P25,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(14),days off,P26,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P27,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P28,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P29,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL0,(11),minimum rest,P30,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_HARD_TOL0,(17),unwanted-shift spread,,max - min = 6 > Gamma = 3
+NSGA3_S3_HARD_TOL0,(21),night-shift spread,,max - min = 8 > Theta = 2
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(3),24-hour window,P2,1 windows above 12 h (maximum 16 h)
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P2,share 0.667 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P3,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P4,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P4,share 0.596 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P5,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P5,share 0.317 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(14),days off,P6,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P7,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P11,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P12,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P13,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P14,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P15,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P16,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P16,share 0.667 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P17,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P18,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P18,share 0.600 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P19,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P20,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P22,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P24,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P27,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P28,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P28,share 0.630 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_HARD_TOL1,(19),share of contracted hours,P29,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_HARD_TOL1,(11),minimum rest,P30,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_HARD_TOL1,(17),unwanted-shift spread,,max - min = 10 > Gamma = 3
+NSGA3_S3_HARD_TOL1,(21),night-shift spread,,max - min = 8 > Theta = 2
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P2,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P2,share 0.630 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P3,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P3,share 0.596 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P4,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P6,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P7,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P8,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P9,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P10,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(14),days off,P10,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P10,share 0.630 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P12,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P13,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P14,5 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P15,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P16,2 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P17,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P18,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P20,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P20,share 0.667 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P21,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P22,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P22,share 0.600 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P25,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P26,2 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P27,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P28,1 rest periods shorter than 11 h (shortest 8 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(11),minimum rest,P30,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL0,(19),share of contracted hours,P30,share 0.367 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL0,(17),unwanted-shift spread,,max - min = 5 > Gamma = 3
+NSGA3_S3_MEDIUM_TOL0,(21),night-shift spread,,max - min = 11 > Theta = 2
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P1,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P2,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P3,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P4,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P4,share 0.386 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P5,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P5,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P6,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P7,7 rest periods shorter than 11 h (shortest 4 h); 7 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P8,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P9,8 rest periods shorter than 11 h (shortest 4 h); 8 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P10,share 0.370 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P11,3 rest periods shorter than 11 h (shortest 8 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P12,3 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P12,share 0.633 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P13,4 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P13,share 0.704 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P14,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P15,4 rest periods shorter than 11 h (shortest 4 h); 5 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(14),days off,P15,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P16,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P17,6 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P18,5 rest periods shorter than 11 h (shortest 4 h); 6 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(14),days off,P18,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P18,share 0.633 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P19,1 rest periods shorter than 11 h (shortest 8 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(14),days off,P19,2 seven-day windows with more than 6 working days (longest run 8 days)
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P20,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P21,3 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P22,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P23,2 rest periods shorter than 11 h (shortest 4 h); 3 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P25,2 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(19),share of contracted hours,P25,share 0.381 outside 0.493 +/- 0.1
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P26,1 rest periods shorter than 11 h (shortest 4 h); 2 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P27,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P28,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P29,1 rest periods shorter than 11 h (shortest 4 h); 1 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(14),days off,P29,1 seven-day windows with more than 6 working days (longest run 7 days)
+NSGA3_S3_MEDIUM_TOL1,(11),minimum rest,P30,4 rest periods shorter than 11 h (shortest 4 h); 4 slot pairs in P
+NSGA3_S3_MEDIUM_TOL1,(17),unwanted-shift spread,,max - min = 9 > Gamma = 3
+NSGA3_S3_MEDIUM_TOL1,(21),night-shift spread,,max - min = 8 > Theta = 2

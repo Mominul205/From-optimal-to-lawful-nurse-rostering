@@ -1,0 +1,53 @@
+{
+  "scenario": "S3",
+  "tolerance": 0,
+  "eps_F2": [
+    50.0,
+    54.7619,
+    59.5238,
+    64.2857
+  ],
+  "eps_F3": [
+    0
+  ],
+  "grid_points": 4,
+  "corners": [
+    {
+      "order": "F1 > F2 > F3",
+      "status": "OPTIMAL",
+      "F1": 69.087921,
+      "F2": 50.0,
+      "F3": 0,
+      "excess": 0,
+      "Z2": 0,
+      "file": "S3_TOL0_corner1.csv",
+      "verified": true
+    },
+    {
+      "order": "F2 > F1 > F3",
+      "status": "OPTIMAL",
+      "F1": 68.33055,
+      "F2": 64.285714,
+      "F3": 0,
+      "excess": 0,
+      "Z2": 0,
+      "file": "S3_TOL0_corner2.csv",
+      "verified": true
+    },
+    {
+      "order": "F3 > F1 > F2",
+      "status": "OPTIMAL",
+      "F1": 69.087921,
+      "F2": 50.0,
+      "F3": 0,
+      "excess": 0,
+      "Z2": 0,
+      "file": "S3_TOL0_corner3.csv",
+      "verified": true
+    }
+  ],
+  "grid_time_s_per_stage": 120,
+  "workers": 4,
+  "computed_in_s": 263.7,
+  "created": "2026-10-08 02:19"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "T1",
+  "pattern": "S1",
+  "seed": 101,
+  "tolerance": 1,
+  "min_F2": 44,
+  "max_F3": 0,
+  "initial_F1": 74.4048338156773
+}

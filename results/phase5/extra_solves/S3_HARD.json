@@ -1,0 +1,36 @@
+{
+ "case": "S3_HARD",
+ "scenario": "S3",
+ "level": "HARD",
+ "theta_F2": 62.5,
+ "theta_fraction": "5/8",
+ "previous_F1": 70.18555627379156,
+ "start_file": "S3_TOL0_CPSAT_run01_4.csv",
+ "start_F1": 68.33055016878546,
+ "status": "OPTIMAL",
+ "F1": 68.619011707247,
+ "F1_bound": 68.619011707247,
+ "stages": [
+  {
+   "stage": "max F1",
+   "status": "OPTIMAL",
+   "value": 68.619011707247,
+   "bound": 68.619011707247
+  },
+  {
+   "stage": "max F2",
+   "status": "OPTIMAL",
+   "value": 62.5,
+   "bound": 62.5
+  }
+ ],
+ "wall_s": 21.5,
+ "workers": 1,
+ "time_limit_per_stage": 1800.0,
+ "checker_F1": 68.619011707247,
+ "checker_F2": 62.5,
+ "checker_F3": 0,
+ "meets_rules": true,
+ "violations": 0,
+ "errors": 0
+}

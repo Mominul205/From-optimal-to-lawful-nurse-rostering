@@ -1,0 +1,9 @@
+{
+  "name": "L200_S3",
+  "pattern": "S3",
+  "seed": 2003,
+  "tolerance": 1,
+  "min_F2": 58,
+  "max_F3": 0,
+  "initial_F1": 73.7846648270292
+}

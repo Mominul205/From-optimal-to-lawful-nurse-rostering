@@ -1,0 +1,9 @@
+{
+  "name": "L60_S1",
+  "pattern": "S1",
+  "seed": 601,
+  "tolerance": 1,
+  "min_F2": 60,
+  "max_F3": 0,
+  "initial_F1": 76.85272190493284
+}

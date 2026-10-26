@@ -1,0 +1,13 @@
+measure,published_min,published_max,our_method_min,our_method_max
+short_rest_periods,35.0,86.0,0.0,0.0
+max_continuous_duty_hours,12.0,24.0,8.0,12.0
+max_consecutive_working_days,6.0,12.0,4.0,6.0
+staff_weeks_without_day_off,0.0,3.0,0.0,0.0
+unwanted_share_percent,24.88262910798122,33.874709976798144,28.13186813186813,32.48259860788863
+unwanted_spread,5.0,10.0,2.0,3.0
+hours_share_min,0.31746031746031744,0.6190476190476191,0.4,0.7
+hours_share_max,0.6,1.0,0.5614035087719298,0.8421052631578947
+nights_spread,5.0,11.0,1.0,2.0
+F3_total_shortage,0.0,26.0,0.0,0.0
+F2_min_satisfaction_percent,50.0,66.66666666666666,37.5,71.42857142857143
+F1_average_satisfaction_percent,66.9691338073691,75.0837912087912,68.33055016878546,76.85174710910005
